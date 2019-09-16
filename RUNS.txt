@@ -1,0 +1,2 @@
+
+The first thing I did to test my program was to make sure the correct text files were being read in the input line and also the values in the file were changed on three runs. Changing the numbers in the text file was very helpful to see if the mathematical code in the statistics part of the program was executing properly. I also made sure to choose reasonable values for example the value for quit prob was 20 compared to a higher number like 80. Also I made sure the ranges for variables were not too big or small. 
