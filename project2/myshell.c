@@ -492,6 +492,8 @@ void routing_function(char* str, char * envp[]) {
 	str = strstrip1(str);
 
 	char* args[ARGS];
+	char* str1 = malloc(sizeof(char*));
+	strcpy(str1, str);
 	char* copy = str;
 	//flag to check if args have pipe symbol
 	int nargs = 0, flag = 0;
@@ -504,7 +506,7 @@ void routing_function(char* str, char * envp[]) {
 
 	if (!flag)
 	{
-		nargs = get_nargs(str, args);
+		nargs = get_nargs(str1, args);
 	}
 
 
