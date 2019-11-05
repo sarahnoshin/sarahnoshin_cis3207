@@ -1,0 +1,11 @@
+	First of all compile the program using makefile. The makefile will make the two files, server and client. First you have to start the server. Then you can start the clients.
+	When you run the server you have to pass the dictionary file as an argument, if you did not provide the argument it will use the default dictionary of linux. 
+        This was also one of the things I tested, to see if the default dictionary should run.
+        Starting server takes time because the dictionary file is too big, server will read all the words of dictionary file and store them into linked list.
+	When the server successfully started, it shows a message that is listening. Then you can connect any client to it using the ip 127.0.0.1 and port number 64154.
+	When a client connected to server, server will create a thread and hanadle the request of that client, server show a message that client is connected.
+        Then you can request any word to check it from server, server will receive the request and check that word in his dictionary and write response to client whether it is 
+        ok or misspelled. I spent some time trying to break the programs for errors. I would test made up words or plurals of words in order to make sure that the output is mispelled.
+        In the same way, you can connect multiple clients to same server. The program was created so that everytime there is a new client, the server will show that the client is connected.
+        In order to get the logfile, the program must terminate when the user hit ctrl C. Then the user will find a logfile that shows all words typed into the program.
+	
