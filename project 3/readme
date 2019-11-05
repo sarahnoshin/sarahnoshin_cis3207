@@ -1,4 +1,5 @@
-	First of all compile the program using makefile. The makefile will make the two files, server and client. First you have to start the server. Then you can start the clients.
+	First of all compile the program using makefile. The makefile will make the two files, server and client. 
+	First you have to start the server. Then you can start the clients.
 	When you run the server you have to pass the dictionary file as an argument, if you did not provide the argument it will use the default dictionary of linux. 
         This was also one of the things I tested, to see if the default dictionary should run.
         Starting server takes time because the dictionary file is too big, server will read all the words of dictionary file and store them into linked list.
