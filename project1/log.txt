@@ -1,0 +1,3560 @@
+======================== SYSTEM CONFIGURATION ========================
+INITIALIZING time:		0
+FINISHING time:			100000
+Minimum ARRIVING Time:	25
+Maximum ARRIVING Time:	55
+Quiting Probability:	20
+Min processing time:	15
+Max processing time:	72
+Minimum DISK 1 time:	30
+Maximum DISK 1 time:	100
+Minimum DISK 2 time:	20
+Maximum DISK 2 time:	65
+
+
+================= SYSTEM INITIALIZED =======================
+
+JOB 1 started
+
+CPU is idle
+
+JOB: 1, completed at time => 89
+
+CPU is idle
+
+JOB: 2, completed at time => 131
+JOB: 3, completed at time => 203.Saving the output ...
+
+CPU is idle
+
+JOB: 4, completed at time => 268.Saving the output ...
+=> Output of JOB: 2 saved to DISK 1
+=> Output of JOB: 3 saved to DISK 2
+JOB: 5, completed at time => 330.Saving the output ...
+JOB: 6, completed at time => 352.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 4 saved to DISK 2
+=> Output of JOB: 5 saved to DISK 1
+JOB: 7, completed at time => 549.Saving the output ...
+=> Output of JOB: 6 saved to DISK 2
+
+CPU is idle
+
+JOB: 8, completed at time => 658
+JOB: 9, completed at time => 708.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 8 saved to DISK 2
+JOB: 10, completed at time => 809.Saving the output ...
+=> Output of JOB: 9 saved to DISK 2
+
+CPU is idle
+
+JOB: 11, completed at time => 938.Saving the output ...
+=> Output of JOB: 10 saved to DISK 1
+JOB: 12, completed at time => 1044.Saving the output ...
+JOB: 13, completed at time => 1095.Saving the output ...
+=> Output of JOB: 12 saved to DISK 2
+=> Output of JOB: 11 saved to DISK 1
+JOB: 14, completed at time => 1164.Saving the output ...
+JOB: 15, completed at time => 1207.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 13 saved to DISK 1
+=> Output of JOB: 14 saved to DISK 2
+JOB: 16, completed at time => 1290
+JOB: 17, completed at time => 1327.Saving the output ...
+=> Output of JOB: 16 saved to DISK 2
+JOB: 18, completed at time => 1368.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 17 saved to DISK 1
+JOB: 19, completed at time => 1471.Saving the output ...
+=> Output of JOB: 18 saved to DISK 2
+
+CPU is idle
+
+JOB: 20, completed at time => 1651.Saving the output ...
+=> Output of JOB: 19 saved to DISK 2
+
+CPU is idle
+
+JOB: 21, completed at time => 1739.Saving the output ...
+
+CPU is idle
+
+JOB: 22, completed at time => 1790
+=> Output of JOB: 20 saved to DISK 1
+
+CPU is idle
+
+JOB: 23, completed at time => 1926.Saving the output ...
+=> Output of JOB: 22 saved to DISK 2
+JOB: 24, completed at time => 1982.Saving the output ...
+
+CPU is idle
+
+JOB: 25, completed at time => 2078.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 23 saved to DISK 1
+=> Output of JOB: 24 saved to DISK 2
+JOB: 26, completed at time => 2171.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 25 saved to DISK 2
+JOB: 27, completed at time => 2248
+JOB: 28, completed at time => 2263.Saving the output ...
+
+CPU is idle
+
+JOB: 29, completed at time => 2318.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 27 saved to DISK 1
+=> Output of JOB: 28 saved to DISK 2
+
+CPU is idle
+
+JOB: 30, completed at time => 2529.Saving the output ...
+=> Output of JOB: 29 saved to DISK 1
+
+CPU is idle
+
+JOB: 31, completed at time => 2706.Saving the output ...
+=> Output of JOB: 30 saved to DISK 2
+JOB: 32, completed at time => 2796
+
+CPU is idle
+
+JOB: 33, completed at time => 2867.Saving the output ...
+=> Output of JOB: 32 saved to DISK 2
+JOB: 34, completed at time => 2939.Saving the output ...
+JOB: 35, completed at time => 2961.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 33 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 34 saved to DISK 1
+JOB: 36, completed at time => 3054
+JOB: 37, completed at time => 3134.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 36 saved to DISK 2
+JOB: 38, completed at time => 3253.Saving the output ...
+=> Output of JOB: 37 saved to DISK 2
+
+CPU is idle
+
+JOB: 39, completed at time => 3330.Saving the output ...
+=> Output of JOB: 38 saved to DISK 2
+JOB: 40, completed at time => 3402.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 39 saved to DISK 2
+
+CPU is idle
+
+JOB: 41, completed at time => 3498.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 40 saved to DISK 1
+JOB: 42, completed at time => 3629.Saving the output ...
+=> Output of JOB: 41 saved to DISK 1
+
+CPU is idle
+
+JOB: 43, completed at time => 3788.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 42 saved to DISK 2
+JOB: 44, completed at time => 4073.Saving the output ...
+=> Output of JOB: 43 saved to DISK 2
+
+CPU is idle
+
+JOB: 45, completed at time => 4254.Saving the output ...
+=> Output of JOB: 44 saved to DISK 2
+JOB: 46, completed at time => 4314.Saving the output ...
+
+CPU is idle
+
+JOB: 47, completed at time => 4390.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 45 saved to DISK 1
+=> Output of JOB: 46 saved to DISK 2
+
+CPU is idle
+
+JOB: 48, completed at time => 4543.Saving the output ...
+=> Output of JOB: 47 saved to DISK 1
+JOB: 49, completed at time => 4646.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 48 saved to DISK 2
+JOB: 50, completed at time => 4951.Saving the output ...
+=> Output of JOB: 49 saved to DISK 1
+JOB: 51, completed at time => 5055.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 50 saved to DISK 2
+JOB: 52, completed at time => 5143.Saving the output ...
+=> Output of JOB: 51 saved to DISK 1
+JOB: 53, completed at time => 5239
+JOB: 54, completed at time => 5279.Saving the output ...
+JOB: 55, completed at time => 5308.Saving the output ...
+=> Output of JOB: 53 saved to DISK 2
+=> Output of JOB: 54 saved to DISK 1
+JOB: 56, completed at time => 5342.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 55 saved to DISK 2
+JOB: 57, completed at time => 5444.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 56 saved to DISK 2
+
+CPU is idle
+
+JOB: 58, completed at time => 5546.Saving the output ...
+=> Output of JOB: 57 saved to DISK 1
+JOB: 59, completed at time => 5636.Saving the output ...
+=> Output of JOB: 58 saved to DISK 2
+
+CPU is idle
+
+JOB: 60, completed at time => 5698.Saving the output ...
+=> Output of JOB: 59 saved to DISK 1
+JOB: 61, completed at time => 5761
+
+CPU is idle
+
+JOB: 62, completed at time => 5832.Saving the output ...
+=> Output of JOB: 61 saved to DISK 2
+
+CPU is idle
+
+JOB: 63, completed at time => 6079.Saving the output ...
+JOB: 64, completed at time => 6149.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 62 saved to DISK 1
+=> Output of JOB: 63 saved to DISK 2
+JOB: 65, completed at time => 6188.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 64 saved to DISK 2
+
+CPU is idle
+
+JOB: 66, completed at time => 6416.Saving the output ...
+JOB: 67, completed at time => 6461.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 65 saved to DISK 1
+=> Output of JOB: 66 saved to DISK 2
+
+CPU is idle
+
+JOB: 68, completed at time => 6595.Saving the output ...
+=> Output of JOB: 67 saved to DISK 2
+JOB: 69, completed at time => 6695
+JOB: 70, completed at time => 6731.Saving the output ...
+=> Output of JOB: 69 saved to DISK 2
+JOB: 71, completed at time => 6802.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 70 saved to DISK 2
+JOB: 72, completed at time => 6848
+
+CPU is idle
+
+JOB: 73, completed at time => 7018.Saving the output ...
+=> Output of JOB: 72 saved to DISK 1
+JOB: 74, completed at time => 7087.Saving the output ...
+JOB: 75, completed at time => 7115.Saving the output ...
+=> Output of JOB: 73 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 74 saved to DISK 1
+JOB: 76, completed at time => 7229.Saving the output ...
+JOB: 77, completed at time => 7295.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 75 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 76 saved to DISK 2
+JOB: 78, completed at time => 7408.Saving the output ...
+=> Output of JOB: 77 saved to DISK 2
+JOB: 79, completed at time => 7518.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 78 saved to DISK 2
+
+CPU is idle
+
+JOB: 80, completed at time => 7712.Saving the output ...
+=> Output of JOB: 79 saved to DISK 2
+JOB: 81, completed at time => 7829.Saving the output ...
+
+CPU is idle
+
+JOB: 82, completed at time => 7900
+=> Output of JOB: 80 saved to DISK 1
+JOB: 83, completed at time => 7954.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 82 saved to DISK 1
+JOB: 84, completed at time => 8245.Saving the output ...
+=> Output of JOB: 83 saved to DISK 2
+
+CPU is idle
+
+JOB: 85, completed at time => 8360.Saving the output ...
+=> Output of JOB: 84 saved to DISK 2
+
+CPU is idle
+
+JOB: 86, completed at time => 8478
+JOB: 87, completed at time => 8577
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 88, completed at time => 8728.Saving the output ...
+=> Output of JOB: 87 saved to DISK 2
+JOB: 89, completed at time => 8837.Saving the output ...
+=> Output of JOB: 88 saved to DISK 2
+
+CPU is idle
+
+JOB: 90, completed at time => 9075.Saving the output ...
+=> Output of JOB: 89 saved to DISK 1
+
+CPU is idle
+
+JOB: 91, completed at time => 9418.Saving the output ...
+=> Output of JOB: 90 saved to DISK 2
+JOB: 92, completed at time => 9502.Saving the output ...
+JOB: 93, completed at time => 9549
+=> Output of JOB: 91 saved to DISK 2
+JOB: 94, completed at time => 9606.Saving the output ...
+JOB: 95, completed at time => 9648
+=> Output of JOB: 93 saved to DISK 1
+
+CPU is idle
+
+JOB: 96, completed at time => 9838.Saving the output ...
+=> Output of JOB: 95 saved to DISK 1
+JOB: 97, completed at time => 9926.Saving the output ...
+JOB: 98, completed at time => 9977.Saving the output ...
+=> Output of JOB: 96 saved to DISK 1
+=> Output of JOB: 97 saved to DISK 2
+
+CPU is idle
+
+JOB: 99, completed at time => 10122.Saving the output ...
+JOB: 100, completed at time => 10184.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 98 saved to DISK 1
+=> Output of JOB: 99 saved to DISK 2
+JOB: 101, completed at time => 10254.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 100 saved to DISK 1
+JOB: 102, completed at time => 10313.Saving the output ...
+=> Output of JOB: 101 saved to DISK 2
+
+CPU is idle
+
+JOB: 103, completed at time => 10513
+
+CPU is idle
+
+JOB: 104, completed at time => 10821.Saving the output ...
+
+CPU is idle
+
+JOB: 105, completed at time => 10906.Saving the output ...
+=> Output of JOB: 103 saved to DISK 1
+=> Output of JOB: 104 saved to DISK 2
+JOB: 106, completed at time => 10990.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 105 saved to DISK 1
+JOB: 107, completed at time => 11469.Saving the output ...
+=> Output of JOB: 106 saved to DISK 1
+
+CPU is idle
+
+JOB: 108, completed at time => 11600.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 107 saved to DISK 1
+JOB: 109, completed at time => 11755
+JOB: 110, completed at time => 11830
+
+CPU is idle
+
+JOB: 111, completed at time => 12219.Saving the output ...
+=> Output of JOB: 110 saved to DISK 2
+
+CPU is idle
+
+JOB: 112, completed at time => 12307.Saving the output ...
+=> Output of JOB: 111 saved to DISK 1
+
+CPU is idle
+
+JOB: 113, completed at time => 12423
+JOB: 114, completed at time => 12485.Saving the output ...
+=> Output of JOB: 113 saved to DISK 2
+JOB: 115, completed at time => 12527.Saving the output ...
+=> Output of JOB: 114 saved to DISK 2
+JOB: 116, completed at time => 12594.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 115 saved to DISK 1
+JOB: 117, completed at time => 12689.Saving the output ...
+=> Output of JOB: 116 saved to DISK 1
+
+CPU is idle
+
+JOB: 118, completed at time => 12913.Saving the output ...
+=> Output of JOB: 117 saved to DISK 1
+
+CPU is idle
+
+JOB: 119, completed at time => 13116.Saving the output ...
+=> Output of JOB: 118 saved to DISK 2
+JOB: 120, completed at time => 13186.Saving the output ...
+JOB: 121, completed at time => 13222.Saving the output ...
+=> Output of JOB: 119 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 120 saved to DISK 2
+JOB: 122, completed at time => 13444.Saving the output ...
+=> Output of JOB: 121 saved to DISK 2
+JOB: 123, completed at time => 13495.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 122 saved to DISK 1
+
+CPU is idle
+
+JOB: 124, completed at time => 13578
+JOB: 125, completed at time => 13693.Saving the output ...
+JOB: 126, completed at time => 13728.Saving the output ...
+=> Output of JOB: 125 saved to DISK 2
+=> Output of JOB: 124 saved to DISK 1
+
+CPU is idle
+
+JOB: 127, completed at time => 13803.Saving the output ...
+=> Output of JOB: 126 saved to DISK 2
+
+CPU is idle
+
+JOB: 128, completed at time => 13973
+
+CPU is idle
+
+JOB: 129, completed at time => 14092.Saving the output ...
+JOB: 130, completed at time => 14142.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 128 saved to DISK 1
+JOB: 131, completed at time => 14174.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 129 saved to DISK 2
+=> Output of JOB: 130 saved to DISK 1
+
+CPU is idle
+
+JOB: 132, completed at time => 14277
+JOB: 133, completed at time => 14357
+JOB: 134, completed at time => 14425.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 133 saved to DISK 1
+JOB: 135, completed at time => 14598.Saving the output ...
+=> Output of JOB: 134 saved to DISK 1
+JOB: 136, completed at time => 14705.Saving the output ...
+JOB: 137, completed at time => 14733.Saving the output ...
+=> Output of JOB: 135 saved to DISK 1
+=> Output of JOB: 136 saved to DISK 2
+JOB: 138, completed at time => 14800.Saving the output ...
+=> Output of JOB: 137 saved to DISK 1
+
+CPU is idle
+
+JOB: 139, completed at time => 14890.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 138 saved to DISK 1
+JOB: 140, completed at time => 14999
+JOB: 141, completed at time => 15072.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 140 saved to DISK 1
+
+CPU is idle
+
+JOB: 142, completed at time => 15214.Saving the output ...
+JOB: 143, completed at time => 15258
+
+CPU is idle
+
+=> Output of JOB: 141 saved to DISK 1
+JOB: 144, completed at time => 15314.Saving the output ...
+JOB: 145, completed at time => 15364.Saving the output ...
+=> Output of JOB: 143 saved to DISK 2
+JOB: 146, completed at time => 15399.Saving the output ...
+=> Output of JOB: 144 saved to DISK 1
+JOB: 147, completed at time => 15460.Saving the output ...
+=> Output of JOB: 145 saved to DISK 2
+JOB: 148, completed at time => 15502.Saving the output ...
+=> Output of JOB: 147 saved to DISK 2
+=> Output of JOB: 146 saved to DISK 1
+JOB: 149, completed at time => 15564.Saving the output ...
+=> Output of JOB: 148 saved to DISK 2
+JOB: 150, completed at time => 15632.Saving the output ...
+=> Output of JOB: 149 saved to DISK 2
+JOB: 151, completed at time => 15665.Saving the output ...
+JOB: 152, completed at time => 15735.Saving the output ...
+=> Output of JOB: 150 saved to DISK 1
+JOB: 153, completed at time => 15755.Saving the output ...
+=> Output of JOB: 151 saved to DISK 2
+JOB: 154, completed at time => 15786.Saving the output ...
+=> Output of JOB: 152 saved to DISK 1
+JOB: 155, completed at time => 15813.Saving the output ...
+=> Output of JOB: 153 saved to DISK 2
+JOB: 156, completed at time => 15852.Saving the output ...
+=> Output of JOB: 154 saved to DISK 1
+JOB: 157, completed at time => 15894.Saving the output ...
+=> Output of JOB: 155 saved to DISK 2
+JOB: 158, completed at time => 15943
+=> Output of JOB: 156 saved to DISK 1
+JOB: 159, completed at time => 15969.Saving the output ...
+JOB: 160, completed at time => 16005.Saving the output ...
+=> Output of JOB: 158 saved to DISK 2
+JOB: 161, completed at time => 16051.Saving the output ...
+=> Output of JOB: 159 saved to DISK 1
+=> Output of JOB: 160 saved to DISK 2
+JOB: 162, completed at time => 16087.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 161 saved to DISK 1
+JOB: 163, completed at time => 16184.Saving the output ...
+=> Output of JOB: 162 saved to DISK 1
+
+CPU is idle
+
+JOB: 164, completed at time => 16519.Saving the output ...
+=> Output of JOB: 163 saved to DISK 1
+JOB: 165, completed at time => 16621.Saving the output ...
+JOB: 166, completed at time => 16684.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 164 saved to DISK 1
+JOB: 167, completed at time => 16728.Saving the output ...
+=> Output of JOB: 165 saved to DISK 2
+=> Output of JOB: 166 saved to DISK 1
+
+CPU is idle
+
+JOB: 168, completed at time => 16949.Saving the output ...
+=> Output of JOB: 167 saved to DISK 2
+JOB: 169, completed at time => 17021.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 168 saved to DISK 1
+
+CPU is idle
+
+JOB: 170, completed at time => 17178.Saving the output ...
+=> Output of JOB: 169 saved to DISK 1
+JOB: 171, completed at time => 17244.Saving the output ...
+JOB: 172, completed at time => 17262.Saving the output ...
+=> Output of JOB: 171 saved to DISK 2
+JOB: 173, completed at time => 17307.Saving the output ...
+=> Output of JOB: 170 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 172 saved to DISK 2
+JOB: 174, completed at time => 17560.Saving the output ...
+JOB: 175, completed at time => 17622.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 174 saved to DISK 2
+=> Output of JOB: 173 saved to DISK 1
+JOB: 176, completed at time => 17697
+JOB: 177, completed at time => 17730.Saving the output ...
+=> Output of JOB: 176 saved to DISK 1
+JOB: 178, completed at time => 17787.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 177 saved to DISK 1
+
+CPU is idle
+
+JOB: 179, completed at time => 18224.Saving the output ...
+=> Output of JOB: 178 saved to DISK 2
+JOB: 180, completed at time => 18321.Saving the output ...
+
+CPU is idle
+
+JOB: 181, completed at time => 18407.Saving the output ...
+=> Output of JOB: 179 saved to DISK 1
+=> Output of JOB: 180 saved to DISK 2
+JOB: 182, completed at time => 18486.Saving the output ...
+JOB: 183, completed at time => 18511
+JOB: 184, completed at time => 18570.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 181 saved to DISK 1
+JOB: 185, completed at time => 18600
+
+CPU is idle
+
+=> Output of JOB: 183 saved to DISK 2
+JOB: 186, completed at time => 18709.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 185 saved to DISK 2
+JOB: 187, completed at time => 18780.Saving the output ...
+JOB: 188, completed at time => 18858
+=> Output of JOB: 186 saved to DISK 1
+JOB: 189, completed at time => 18890.Saving the output ...
+JOB: 190, completed at time => 18945
+=> Output of JOB: 188 saved to DISK 1
+JOB: 191, completed at time => 18989
+JOB: 192, completed at time => 19027.Saving the output ...
+JOB: 193, completed at time => 19098.Saving the output ...
+=> Output of JOB: 191 saved to DISK 1
+JOB: 194, completed at time => 19145.Saving the output ...
+=> Output of JOB: 192 saved to DISK 2
+JOB: 195, completed at time => 19184.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 194 saved to DISK 2
+=> Output of JOB: 193 saved to DISK 1
+
+CPU is idle
+
+JOB: 196, completed at time => 19430.Saving the output ...
+=> Output of JOB: 195 saved to DISK 2
+
+CPU is idle
+
+JOB: 197, completed at time => 19675
+
+CPU is idle
+
+JOB: 198, completed at time => 19823.Saving the output ...
+=> Output of JOB: 197 saved to DISK 1
+JOB: 199, completed at time => 19916.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 198 saved to DISK 2
+JOB: 200, completed at time => 20149.Saving the output ...
+=> Output of JOB: 199 saved to DISK 2
+JOB: 201, completed at time => 20201.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 200 saved to DISK 2
+JOB: 202, completed at time => 20266
+JOB: 203, completed at time => 20298
+JOB: 204, completed at time => 20337.Saving the output ...
+=> Output of JOB: 203 saved to DISK 1
+JOB: 205, completed at time => 20398.Saving the output ...
+
+CPU is idle
+
+JOB: 206, completed at time => 20423.Saving the output ...
+=> Output of JOB: 204 saved to DISK 1
+=> Output of JOB: 205 saved to DISK 2
+
+CPU is idle
+
+JOB: 207, completed at time => 20553.Saving the output ...
+=> Output of JOB: 206 saved to DISK 2
+
+CPU is idle
+
+JOB: 208, completed at time => 20713.Saving the output ...
+=> Output of JOB: 207 saved to DISK 2
+JOB: 209, completed at time => 20805.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 208 saved to DISK 1
+JOB: 210, completed at time => 20907.Saving the output ...
+=> Output of JOB: 209 saved to DISK 2
+JOB: 211, completed at time => 20990
+
+CPU is idle
+
+JOB: 212, completed at time => 21073.Saving the output ...
+JOB: 213, completed at time => 21117
+
+CPU is idle
+
+=> Output of JOB: 211 saved to DISK 1
+JOB: 214, completed at time => 21399.Saving the output ...
+=> Output of JOB: 213 saved to DISK 2
+
+CPU is idle
+
+JOB: 215, completed at time => 21477.Saving the output ...
+=> Output of JOB: 214 saved to DISK 1
+
+CPU is idle
+
+JOB: 216, completed at time => 21656.Saving the output ...
+=> Output of JOB: 215 saved to DISK 2
+JOB: 217, completed at time => 21707.Saving the output ...
+
+CPU is idle
+
+JOB: 218, completed at time => 21783.Saving the output ...
+=> Output of JOB: 216 saved to DISK 1
+=> Output of JOB: 217 saved to DISK 2
+
+CPU is idle
+
+JOB: 219, completed at time => 21896.Saving the output ...
+=> Output of JOB: 218 saved to DISK 2
+JOB: 220, completed at time => 22001.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 219 saved to DISK 1
+
+CPU is idle
+
+JOB: 221, completed at time => 22116
+JOB: 222, completed at time => 22233.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 221 saved to DISK 2
+JOB: 223, completed at time => 22308.Saving the output ...
+=> Output of JOB: 222 saved to DISK 1
+
+CPU is idle
+
+JOB: 224, completed at time => 22459.Saving the output ...
+=> Output of JOB: 223 saved to DISK 1
+JOB: 225, completed at time => 22556.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 224 saved to DISK 1
+JOB: 226, completed at time => 22712.Saving the output ...
+=> Output of JOB: 225 saved to DISK 1
+
+CPU is idle
+
+JOB: 227, completed at time => 22884.Saving the output ...
+=> Output of JOB: 226 saved to DISK 2
+
+CPU is idle
+
+JOB: 228, completed at time => 23037.Saving the output ...
+=> Output of JOB: 227 saved to DISK 2
+
+CPU is idle
+
+JOB: 229, completed at time => 23129.Saving the output ...
+=> Output of JOB: 228 saved to DISK 2
+
+CPU is idle
+
+JOB: 230, completed at time => 23253.Saving the output ...
+=> Output of JOB: 229 saved to DISK 2
+
+CPU is idle
+
+JOB: 231, completed at time => 23454.Saving the output ...
+=> Output of JOB: 230 saved to DISK 2
+JOB: 232, completed at time => 23551.Saving the output ...
+
+CPU is idle
+
+JOB: 233, completed at time => 23607.Saving the output ...
+=> Output of JOB: 231 saved to DISK 1
+=> Output of JOB: 232 saved to DISK 2
+JOB: 234, completed at time => 23700.Saving the output ...
+=> Output of JOB: 233 saved to DISK 1
+
+CPU is idle
+
+JOB: 235, completed at time => 24060
+
+CPU is idle
+
+JOB: 236, completed at time => 24306.Saving the output ...
+=> Output of JOB: 235 saved to DISK 2
+JOB: 237, completed at time => 24390.Saving the output ...
+JOB: 238, completed at time => 24428
+
+CPU is idle
+
+=> Output of JOB: 236 saved to DISK 1
+JOB: 239, completed at time => 24495
+
+CPU is idle
+
+JOB: 240, completed at time => 24585
+
+CPU is idle
+
+JOB: 241, completed at time => 24824
+JOB: 242, completed at time => 24911.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 241 saved to DISK 2
+
+CPU is idle
+
+JOB: 243, completed at time => 24990.Saving the output ...
+=> Output of JOB: 242 saved to DISK 2
+
+CPU is idle
+
+JOB: 244, completed at time => 25279.Saving the output ...
+JOB: 245, completed at time => 25326
+
+CPU is idle
+
+=> Output of JOB: 243 saved to DISK 1
+JOB: 246, completed at time => 25404.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 245 saved to DISK 2
+JOB: 247, completed at time => 25488
+
+CPU is idle
+
+JOB: 248, completed at time => 25861.Saving the output ...
+=> Output of JOB: 247 saved to DISK 2
+
+CPU is idle
+
+JOB: 249, completed at time => 26038.Saving the output ...
+JOB: 250, completed at time => 26092.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 248 saved to DISK 2
+=> Output of JOB: 249 saved to DISK 1
+JOB: 251, completed at time => 26164.Saving the output ...
+JOB: 252, completed at time => 26201.Saving the output ...
+=> Output of JOB: 250 saved to DISK 2
+
+CPU is idle
+
+JOB: 253, completed at time => 26263.Saving the output ...
+=> Output of JOB: 251 saved to DISK 1
+=> Output of JOB: 252 saved to DISK 2
+
+CPU is idle
+
+JOB: 254, completed at time => 26439
+JOB: 255, completed at time => 26555.Saving the output ...
+JOB: 256, completed at time => 26578.Saving the output ...
+=> Output of JOB: 254 saved to DISK 1
+JOB: 257, completed at time => 26609
+=> Output of JOB: 255 saved to DISK 2
+JOB: 258, completed at time => 26642.Saving the output ...
+JOB: 259, completed at time => 26660.Saving the output ...
+=> Output of JOB: 258 saved to DISK 2
+JOB: 260, completed at time => 26730.Saving the output ...
+=> Output of JOB: 257 saved to DISK 1
+JOB: 261, completed at time => 26767
+=> Output of JOB: 259 saved to DISK 2
+JOB: 262, completed at time => 26783.Saving the output ...
+
+CPU is idle
+
+JOB: 263, completed at time => 26857.Saving the output ...
+=> Output of JOB: 261 saved to DISK 1
+JOB: 264, completed at time => 26878
+=> Output of JOB: 262 saved to DISK 2
+JOB: 265, completed at time => 26948.Saving the output ...
+=> Output of JOB: 264 saved to DISK 1
+JOB: 266, completed at time => 27003.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 265 saved to DISK 2
+JOB: 267, completed at time => 27038.Saving the output ...
+JOB: 268, completed at time => 27090.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 266 saved to DISK 1
+=> Output of JOB: 267 saved to DISK 2
+JOB: 269, completed at time => 27151.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 268 saved to DISK 1
+
+CPU is idle
+
+JOB: 270, completed at time => 27269.Saving the output ...
+=> Output of JOB: 269 saved to DISK 2
+
+CPU is idle
+
+JOB: 271, completed at time => 27368
+JOB: 272, completed at time => 27452.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 271 saved to DISK 1
+JOB: 273, completed at time => 27640.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 272 saved to DISK 1
+JOB: 274, completed at time => 27743.Saving the output ...
+=> Output of JOB: 273 saved to DISK 2
+
+CPU is idle
+
+JOB: 275, completed at time => 27863.Saving the output ...
+=> Output of JOB: 274 saved to DISK 1
+JOB: 276, completed at time => 27971.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 275 saved to DISK 2
+
+CPU is idle
+
+JOB: 277, completed at time => 28067.Saving the output ...
+=> Output of JOB: 276 saved to DISK 2
+
+CPU is idle
+
+JOB: 278, completed at time => 28208.Saving the output ...
+=> Output of JOB: 277 saved to DISK 1
+JOB: 279, completed at time => 28295
+JOB: 280, completed at time => 28314
+JOB: 281, completed at time => 28377.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 280 saved to DISK 2
+JOB: 282, completed at time => 28425.Saving the output ...
+JOB: 283, completed at time => 28445.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 282 saved to DISK 1
+=> Output of JOB: 281 saved to DISK 2
+JOB: 284, completed at time => 28607.Saving the output ...
+=> Output of JOB: 283 saved to DISK 2
+
+CPU is idle
+
+JOB: 285, completed at time => 28729.Saving the output ...
+=> Output of JOB: 284 saved to DISK 2
+JOB: 286, completed at time => 28800
+JOB: 287, completed at time => 28834.Saving the output ...
+
+CPU is idle
+
+JOB: 288, completed at time => 28922
+=> Output of JOB: 286 saved to DISK 1
+
+CPU is idle
+
+JOB: 289, completed at time => 29086.Saving the output ...
+=> Output of JOB: 288 saved to DISK 1
+JOB: 290, completed at time => 29210.Saving the output ...
+=> Output of JOB: 289 saved to DISK 1
+JOB: 291, completed at time => 29260.Saving the output ...
+=> Output of JOB: 290 saved to DISK 2
+JOB: 292, completed at time => 29318.Saving the output ...
+JOB: 293, completed at time => 29339.Saving the output ...
+JOB: 294, completed at time => 29364.Saving the output ...
+=> Output of JOB: 293 saved to DISK 1
+=> Output of JOB: 292 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 32595 saved to DISK 1
+JOB: 295, completed at time => 29469.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 294 saved to DISK 1
+JOB: 296, completed at time => 29575.Saving the output ...
+=> Output of JOB: 295 saved to DISK 2
+JOB: 297, completed at time => 29683.Saving the output ...
+JOB: 298, completed at time => 29729
+JOB: 299, completed at time => 29752
+
+CPU is idle
+
+=> Output of JOB: 296 saved to DISK 1
+
+CPU is idle
+
+JOB: 300, completed at time => 30360.Saving the output ...
+=> Output of JOB: 299 saved to DISK 2
+
+CPU is idle
+
+JOB: 301, completed at time => 30701.Saving the output ...
+=> Output of JOB: 300 saved to DISK 2
+JOB: 302, completed at time => 30798.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 301 saved to DISK 2
+JOB: 303, completed at time => 30886.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 302 saved to DISK 1
+JOB: 304, completed at time => 30966.Saving the output ...
+JOB: 305, completed at time => 31018.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 303 saved to DISK 2
+=> Output of JOB: 304 saved to DISK 1
+
+CPU is idle
+
+JOB: 306, completed at time => 31149.Saving the output ...
+
+CPU is idle
+
+JOB: 307, completed at time => 31227.Saving the output ...
+=> Output of JOB: 305 saved to DISK 1
+=> Output of JOB: 306 saved to DISK 2
+JOB: 308, completed at time => 31292
+
+CPU is idle
+
+JOB: 309, completed at time => 31378.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 308 saved to DISK 1
+JOB: 310, completed at time => 31483.Saving the output ...
+=> Output of JOB: 309 saved to DISK 1
+
+CPU is idle
+
+JOB: 311, completed at time => 31622
+JOB: 312, completed at time => 31710.Saving the output ...
+=> Output of JOB: 311 saved to DISK 2
+JOB: 313, completed at time => 31766.Saving the output ...
+
+CPU is idle
+
+JOB: 314, completed at time => 31813.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 312 saved to DISK 2
+=> Output of JOB: 313 saved to DISK 1
+JOB: 315, completed at time => 31888.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 314 saved to DISK 2
+
+CPU is idle
+
+JOB: 316, completed at time => 31967.Saving the output ...
+=> Output of JOB: 315 saved to DISK 2
+JOB: 317, completed at time => 32056.Saving the output ...
+
+CPU is idle
+
+JOB: 318, completed at time => 32077.Saving the output ...
+=> Output of JOB: 316 saved to DISK 2
+=> Output of JOB: 317 saved to DISK 1
+
+CPU is idle
+
+JOB: 319, completed at time => 32210.Saving the output ...
+JOB: 320, completed at time => 32270.Saving the output ...
+=> Output of JOB: 318 saved to DISK 1
+=> Output of JOB: 319 saved to DISK 2
+JOB: 321, completed at time => 32335.Saving the output ...
+=> Output of JOB: 320 saved to DISK 1
+JOB: 322, completed at time => 32405.Saving the output ...
+JOB: 323, completed at time => 32462.Saving the output ...
+=> Output of JOB: 321 saved to DISK 1
+=> Output of JOB: 322 saved to DISK 2
+JOB: 324, completed at time => 32524.Saving the output ...
+=> Output of JOB: 323 saved to DISK 2
+JOB: 325, completed at time => 32566.Saving the output ...
+=> Output of JOB: 324 saved to DISK 1
+
+CPU is idle
+
+JOB: 326, completed at time => 32707.Saving the output ...
+JOB: 327, completed at time => 32775.Saving the output ...
+=> Output of JOB: 325 saved to DISK 1
+JOB: 328, completed at time => 32831.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 326 saved to DISK 2
+=> Output of JOB: 327 saved to DISK 1
+
+CPU is idle
+
+JOB: 329, completed at time => 33018.Saving the output ...
+=> Output of JOB: 328 saved to DISK 2
+
+CPU is idle
+
+JOB: 330, completed at time => 33178
+JOB: 331, completed at time => 33281
+JOB: 332, completed at time => 33351.Saving the output ...
+JOB: 333, completed at time => 33386.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 331 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 332 saved to DISK 2
+JOB: 334, completed at time => 33442.Saving the output ...
+=> Output of JOB: 333 saved to DISK 2
+
+CPU is idle
+
+JOB: 335, completed at time => 33522.Saving the output ...
+=> Output of JOB: 334 saved to DISK 1
+JOB: 336, completed at time => 33615.Saving the output ...
+=> Output of JOB: 335 saved to DISK 2
+
+CPU is idle
+
+JOB: 337, completed at time => 33707
+
+CPU is idle
+
+JOB: 338, completed at time => 33988.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 337 saved to DISK 1
+JOB: 339, completed at time => 34112.Saving the output ...
+=> Output of JOB: 338 saved to DISK 1
+JOB: 340, completed at time => 34190.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 339 saved to DISK 1
+
+CPU is idle
+
+JOB: 341, completed at time => 34336.Saving the output ...
+=> Output of JOB: 340 saved to DISK 1
+JOB: 342, completed at time => 34426.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 341 saved to DISK 2
+JOB: 343, completed at time => 34537.Saving the output ...
+=> Output of JOB: 342 saved to DISK 1
+
+CPU is idle
+
+JOB: 344, completed at time => 34688.Saving the output ...
+=> Output of JOB: 343 saved to DISK 2
+JOB: 345, completed at time => 34774.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 344 saved to DISK 1
+JOB: 346, completed at time => 34978
+
+CPU is idle
+
+JOB: 347, completed at time => 35183
+
+CPU is idle
+
+JOB: 348, completed at time => 35353.Saving the output ...
+=> Output of JOB: 347 saved to DISK 1
+JOB: 349, completed at time => 35470.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 348 saved to DISK 2
+JOB: 350, completed at time => 35565.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 349 saved to DISK 1
+JOB: 351, completed at time => 35958.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 350 saved to DISK 1
+JOB: 352, completed at time => 36335
+
+CPU is idle
+
+JOB: 353, completed at time => 36516.Saving the output ...
+=> Output of JOB: 352 saved to DISK 2
+JOB: 354, completed at time => 36583
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 355, completed at time => 36638
+JOB: 356, completed at time => 36697.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 355 saved to DISK 1
+JOB: 357, completed at time => 36792
+
+CPU is idle
+
+JOB: 358, completed at time => 36951.Saving the output ...
+=> Output of JOB: 357 saved to DISK 2
+
+CPU is idle
+
+JOB: 359, completed at time => 37076.Saving the output ...
+=> Output of JOB: 358 saved to DISK 1
+JOB: 360, completed at time => 37183.Saving the output ...
+JOB: 361, completed at time => 37249
+=> Output of JOB: 359 saved to DISK 1
+JOB: 362, completed at time => 37315.Saving the output ...
+JOB: 363, completed at time => 37344.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 361 saved to DISK 1
+=> Output of JOB: 362 saved to DISK 2
+JOB: 364, completed at time => 37390
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 365, completed at time => 37498.Saving the output ...
+
+CPU is idle
+
+JOB: 366, completed at time => 37589
+=> Output of JOB: 364 saved to DISK 1
+JOB: 367, completed at time => 37679
+
+CPU is idle
+
+JOB: 368, completed at time => 37717.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 367 saved to DISK 1
+JOB: 369, completed at time => 37792.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 368 saved to DISK 1
+
+CPU is idle
+
+JOB: 370, completed at time => 37886.Saving the output ...
+=> Output of JOB: 369 saved to DISK 2
+JOB: 371, completed at time => 37981.Saving the output ...
+=> Output of JOB: 370 saved to DISK 2
+JOB: 372, completed at time => 38032.Saving the output ...
+=> Output of JOB: 371 saved to DISK 2
+JOB: 373, completed at time => 38087.Saving the output ...
+=> Output of JOB: 372 saved to DISK 1
+
+CPU is idle
+
+JOB: 374, completed at time => 38592.Saving the output ...
+=> Output of JOB: 373 saved to DISK 2
+
+CPU is idle
+
+JOB: 375, completed at time => 38704.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 374 saved to DISK 1
+JOB: 376, completed at time => 38858.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 375 saved to DISK 2
+JOB: 377, completed at time => 38993.Saving the output ...
+=> Output of JOB: 376 saved to DISK 2
+JOB: 378, completed at time => 39071
+JOB: 379, completed at time => 39128.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 378 saved to DISK 1
+
+CPU is idle
+
+JOB: 380, completed at time => 39192
+JOB: 381, completed at time => 39256.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 380 saved to DISK 2
+JOB: 382, completed at time => 39882.Saving the output ...
+=> Output of JOB: 381 saved to DISK 2
+JOB: 383, completed at time => 39958.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 382 saved to DISK 1
+JOB: 384, completed at time => 40019.Saving the output ...
+=> Output of JOB: 383 saved to DISK 1
+JOB: 385, completed at time => 40086.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 384 saved to DISK 2
+JOB: 386, completed at time => 40178.Saving the output ...
+JOB: 387, completed at time => 40225.Saving the output ...
+=> Output of JOB: 385 saved to DISK 2
+JOB: 388, completed at time => 40246.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 387 saved to DISK 2
+=> Output of JOB: 386 saved to DISK 1
+JOB: 389, completed at time => 40335
+JOB: 390, completed at time => 40387.Saving the output ...
+=> Output of JOB: 389 saved to DISK 1
+JOB: 391, completed at time => 40457.Saving the output ...
+=> Output of JOB: 390 saved to DISK 1
+JOB: 392, completed at time => 40494.Saving the output ...
+JOB: 393, completed at time => 40549.Saving the output ...
+=> Output of JOB: 391 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 392 saved to DISK 2
+JOB: 394, completed at time => 40667.Saving the output ...
+=> Output of JOB: 393 saved to DISK 1
+
+CPU is idle
+
+JOB: 395, completed at time => 40870.Saving the output ...
+=> Output of JOB: 394 saved to DISK 2
+
+CPU is idle
+
+JOB: 396, completed at time => 40958.Saving the output ...
+=> Output of JOB: 395 saved to DISK 1
+JOB: 397, completed at time => 41054.Saving the output ...
+=> Output of JOB: 396 saved to DISK 2
+JOB: 398, completed at time => 41115.Saving the output ...
+JOB: 399, completed at time => 41144
+
+CPU is idle
+
+=> Output of JOB: 397 saved to DISK 2
+
+CPU is idle
+
+JOB: 400, completed at time => 41234.Saving the output ...
+=> Output of JOB: 399 saved to DISK 1
+JOB: 401, completed at time => 41344.Saving the output ...
+
+CPU is idle
+
+JOB: 402, completed at time => 41374.Saving the output ...
+=> Output of JOB: 401 saved to DISK 2
+=> Output of JOB: 400 saved to DISK 1
+JOB: 403, completed at time => 41440.Saving the output ...
+JOB: 404, completed at time => 41465.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 402 saved to DISK 1
+=> Output of JOB: 403 saved to DISK 2
+JOB: 405, completed at time => 41550.Saving the output ...
+JOB: 406, completed at time => 41589.Saving the output ...
+=> Output of JOB: 404 saved to DISK 2
+JOB: 407, completed at time => 41617.Saving the output ...
+JOB: 408, completed at time => 41642.Saving the output ...
+=> Output of JOB: 407 saved to DISK 1
+=> Output of JOB: 406 saved to DISK 2
+JOB: 409, completed at time => 41674.Saving the output ...
+=> Output of JOB: 32595 saved to DISK 1
+=> Output of JOB: 408 saved to DISK 2
+
+CPU is idle
+
+JOB: 410, completed at time => 41822.Saving the output ...
+=> Output of JOB: 409 saved to DISK 1
+JOB: 411, completed at time => 41911.Saving the output ...
+=> Output of JOB: 410 saved to DISK 2
+JOB: 412, completed at time => 41979.Saving the output ...
+=> Output of JOB: 411 saved to DISK 1
+JOB: 413, completed at time => 42049.Saving the output ...
+=> Output of JOB: 412 saved to DISK 2
+JOB: 414, completed at time => 42116
+
+CPU is idle
+
+JOB: 415, completed at time => 42473.Saving the output ...
+=> Output of JOB: 414 saved to DISK 2
+
+CPU is idle
+
+JOB: 416, completed at time => 42706.Saving the output ...
+JOB: 417, completed at time => 42799
+
+CPU is idle
+
+=> Output of JOB: 415 saved to DISK 1
+
+CPU is idle
+
+JOB: 418, completed at time => 42915.Saving the output ...
+=> Output of JOB: 417 saved to DISK 2
+
+CPU is idle
+
+JOB: 419, completed at time => 42998.Saving the output ...
+=> Output of JOB: 418 saved to DISK 2
+JOB: 420, completed at time => 43064.Saving the output ...
+JOB: 421, completed at time => 43127.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 419 saved to DISK 1
+JOB: 422, completed at time => 43169.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 420 saved to DISK 2
+JOB: 423, completed at time => 43190.Saving the output ...
+=> Output of JOB: 421 saved to DISK 1
+=> Output of JOB: 422 saved to DISK 2
+JOB: 424, completed at time => 43260.Saving the output ...
+JOB: 425, completed at time => 43303
+
+CPU is idle
+
+=> Output of JOB: 423 saved to DISK 1
+
+CPU is idle
+
+JOB: 426, completed at time => 43815.Saving the output ...
+=> Output of JOB: 425 saved to DISK 1
+JOB: 427, completed at time => 43891.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 426 saved to DISK 2
+JOB: 428, completed at time => 43962.Saving the output ...
+=> Output of JOB: 427 saved to DISK 1
+JOB: 429, completed at time => 44053
+JOB: 430, completed at time => 44122.Saving the output ...
+=> Output of JOB: 429 saved to DISK 1
+JOB: 431, completed at time => 44164.Saving the output ...
+JOB: 432, completed at time => 44200.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 430 saved to DISK 1
+=> Output of JOB: 431 saved to DISK 2
+JOB: 433, completed at time => 44259.Saving the output ...
+JOB: 434, completed at time => 44276.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 432 saved to DISK 1
+=> Output of JOB: 433 saved to DISK 2
+
+CPU is idle
+
+JOB: 435, completed at time => 44489.Saving the output ...
+=> Output of JOB: 434 saved to DISK 1
+
+CPU is idle
+
+JOB: 436, completed at time => 44912.Saving the output ...
+=> Output of JOB: 435 saved to DISK 1
+
+CPU is idle
+
+JOB: 437, completed at time => 45458.Saving the output ...
+=> Output of JOB: 436 saved to DISK 1
+JOB: 438, completed at time => 45536.Saving the output ...
+JOB: 439, completed at time => 45587.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 437 saved to DISK 2
+JOB: 440, completed at time => 45655.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 438 saved to DISK 1
+=> Output of JOB: 439 saved to DISK 2
+JOB: 441, completed at time => 45709.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 440 saved to DISK 1
+
+CPU is idle
+
+JOB: 442, completed at time => 45812.Saving the output ...
+=> Output of JOB: 441 saved to DISK 1
+JOB: 443, completed at time => 45899.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 442 saved to DISK 2
+
+CPU is idle
+
+JOB: 444, completed at time => 46084.Saving the output ...
+=> Output of JOB: 443 saved to DISK 2
+JOB: 445, completed at time => 46157.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 444 saved to DISK 2
+JOB: 446, completed at time => 46213.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 445 saved to DISK 1
+
+CPU is idle
+
+JOB: 447, completed at time => 46416.Saving the output ...
+JOB: 448, completed at time => 46471.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 446 saved to DISK 1
+=> Output of JOB: 447 saved to DISK 2
+JOB: 449, completed at time => 46533.Saving the output ...
+JOB: 450, completed at time => 46571.Saving the output ...
+=> Output of JOB: 448 saved to DISK 2
+JOB: 451, completed at time => 46587.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 450 saved to DISK 2
+=> Output of JOB: 449 saved to DISK 1
+JOB: 452, completed at time => 46688
+JOB: 453, completed at time => 46751.Saving the output ...
+JOB: 454, completed at time => 46784
+=> Output of JOB: 452 saved to DISK 1
+JOB: 455, completed at time => 46843.Saving the output ...
+=> Output of JOB: 454 saved to DISK 2
+JOB: 456, completed at time => 46892.Saving the output ...
+JOB: 457, completed at time => 46958.Saving the output ...
+=> Output of JOB: 455 saved to DISK 1
+JOB: 458, completed at time => 46978.Saving the output ...
+=> Output of JOB: 456 saved to DISK 2
+=> Output of JOB: 457 saved to DISK 1
+JOB: 459, completed at time => 47025.Saving the output ...
+JOB: 460, completed at time => 47061.Saving the output ...
+=> Output of JOB: 459 saved to DISK 2
+JOB: 461, completed at time => 47112.Saving the output ...
+=> Output of JOB: 458 saved to DISK 1
+=> Output of JOB: 460 saved to DISK 2
+JOB: 462, completed at time => 47155.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 461 saved to DISK 2
+JOB: 463, completed at time => 47205.Saving the output ...
+=> Output of JOB: 462 saved to DISK 2
+JOB: 464, completed at time => 47275
+
+CPU is idle
+
+JOB: 465, completed at time => 47312
+JOB: 466, completed at time => 47368.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 465 saved to DISK 2
+
+CPU is idle
+
+JOB: 467, completed at time => 47720.Saving the output ...
+=> Output of JOB: 466 saved to DISK 2
+
+CPU is idle
+
+JOB: 468, completed at time => 47893
+
+CPU is idle
+
+JOB: 469, completed at time => 48018.Saving the output ...
+=> Output of JOB: 468 saved to DISK 1
+JOB: 470, completed at time => 48120.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 469 saved to DISK 1
+JOB: 471, completed at time => 48234.Saving the output ...
+=> Output of JOB: 470 saved to DISK 2
+JOB: 472, completed at time => 48348.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 471 saved to DISK 1
+
+CPU is idle
+
+JOB: 473, completed at time => 48560.Saving the output ...
+=> Output of JOB: 472 saved to DISK 1
+JOB: 474, completed at time => 48642.Saving the output ...
+=> Output of JOB: 473 saved to DISK 2
+JOB: 475, completed at time => 48709.Saving the output ...
+JOB: 476, completed at time => 48733.Saving the output ...
+=> Output of JOB: 475 saved to DISK 2
+JOB: 477, completed at time => 48776.Saving the output ...
+=> Output of JOB: 474 saved to DISK 1
+JOB: 478, completed at time => 48820.Saving the output ...
+=> Output of JOB: 476 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 477 saved to DISK 1
+JOB: 479, completed at time => 48924.Saving the output ...
+=> Output of JOB: 478 saved to DISK 1
+JOB: 480, completed at time => 49029.Saving the output ...
+
+CPU is idle
+
+JOB: 481, completed at time => 49081
+
+CPU is idle
+
+=> Output of JOB: 479 saved to DISK 1
+JOB: 482, completed at time => 49189
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 483, completed at time => 49322.Saving the output ...
+=> Output of JOB: 482 saved to DISK 1
+JOB: 484, completed at time => 49418.Saving the output ...
+JOB: 485, completed at time => 49480.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 483 saved to DISK 1
+=> Output of JOB: 484 saved to DISK 2
+JOB: 486, completed at time => 49742
+
+CPU is idle
+
+JOB: 487, completed at time => 49856.Saving the output ...
+=> Output of JOB: 486 saved to DISK 1
+
+CPU is idle
+
+JOB: 488, completed at time => 49939.Saving the output ...
+=> Output of JOB: 487 saved to DISK 1
+JOB: 489, completed at time => 50052.Saving the output ...
+JOB: 490, completed at time => 50120.Saving the output ...
+=> Output of JOB: 488 saved to DISK 1
+=> Output of JOB: 489 saved to DISK 2
+JOB: 491, completed at time => 50189.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 490 saved to DISK 1
+JOB: 492, completed at time => 50239.Saving the output ...
+JOB: 493, completed at time => 50258.Saving the output ...
+=> Output of JOB: 491 saved to DISK 1
+JOB: 494, completed at time => 50286
+=> Output of JOB: 492 saved to DISK 2
+JOB: 495, completed at time => 50314.Saving the output ...
+=> Output of JOB: 494 saved to DISK 2
+JOB: 496, completed at time => 50371.Saving the output ...
+JOB: 497, completed at time => 50393.Saving the output ...
+=> Output of JOB: 496 saved to DISK 2
+=> Output of JOB: 495 saved to DISK 1
+JOB: 498, completed at time => 50448.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 497 saved to DISK 1
+JOB: 499, completed at time => 50539.Saving the output ...
+JOB: 500, completed at time => 50556.Saving the output ...
+=> Output of JOB: 498 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 499 saved to DISK 1
+JOB: 501, completed at time => 50694.Saving the output ...
+=> Output of JOB: 500 saved to DISK 1
+
+CPU is idle
+
+JOB: 502, completed at time => 50906
+JOB: 503, completed at time => 51008.Saving the output ...
+=> Output of JOB: 502 saved to DISK 2
+JOB: 504, completed at time => 51079.Saving the output ...
+=> Output of JOB: 503 saved to DISK 2
+JOB: 505, completed at time => 51135
+
+CPU is idle
+
+JOB: 506, completed at time => 51198.Saving the output ...
+=> Output of JOB: 505 saved to DISK 1
+JOB: 507, completed at time => 51285.Saving the output ...
+=> Output of JOB: 506 saved to DISK 2
+
+CPU is idle
+
+JOB: 508, completed at time => 51569.Saving the output ...
+JOB: 509, completed at time => 51618.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 507 saved to DISK 1
+=> Output of JOB: 508 saved to DISK 2
+
+CPU is idle
+
+JOB: 510, completed at time => 51733.Saving the output ...
+=> Output of JOB: 509 saved to DISK 1
+JOB: 511, completed at time => 51840.Saving the output ...
+=> Output of JOB: 510 saved to DISK 2
+JOB: 512, completed at time => 51904.Saving the output ...
+=> Output of JOB: 511 saved to DISK 2
+JOB: 513, completed at time => 51966.Saving the output ...
+JOB: 514, completed at time => 52011.Saving the output ...
+=> Output of JOB: 512 saved to DISK 2
+JOB: 515, completed at time => 52083.Saving the output ...
+=> Output of JOB: 513 saved to DISK 1
+=> Output of JOB: 514 saved to DISK 2
+JOB: 516, completed at time => 52151.Saving the output ...
+JOB: 517, completed at time => 52175.Saving the output ...
+=> Output of JOB: 515 saved to DISK 2
+=> Output of JOB: 516 saved to DISK 1
+JOB: 518, completed at time => 52231.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 517 saved to DISK 1
+JOB: 519, completed at time => 52440.Saving the output ...
+=> Output of JOB: 518 saved to DISK 2
+JOB: 520, completed at time => 52539.Saving the output ...
+JOB: 521, completed at time => 52599
+=> Output of JOB: 519 saved to DISK 1
+JOB: 522, completed at time => 52618
+JOB: 523, completed at time => 52656
+JOB: 524, completed at time => 52688.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 523 saved to DISK 1
+JOB: 525, completed at time => 52731.Saving the output ...
+
+CPU is idle
+
+JOB: 526, completed at time => 52780.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 524 saved to DISK 1
+=> Output of JOB: 525 saved to DISK 2
+JOB: 527, completed at time => 52840.Saving the output ...
+
+CPU is idle
+
+JOB: 528, completed at time => 52878.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 527 saved to DISK 2
+=> Output of JOB: 526 saved to DISK 1
+JOB: 529, completed at time => 52957.Saving the output ...
+JOB: 530, completed at time => 52975.Saving the output ...
+=> Output of JOB: 528 saved to DISK 2
+JOB: 531, completed at time => 53036
+JOB: 532, completed at time => 53059.Saving the output ...
+=> Output of JOB: 529 saved to DISK 1
+JOB: 533, completed at time => 53077.Saving the output ...
+=> Output of JOB: 531 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 532 saved to DISK 1
+JOB: 534, completed at time => 53212.Saving the output ...
+JOB: 535, completed at time => 53297.Saving the output ...
+=> Output of JOB: 533 saved to DISK 1
+JOB: 536, completed at time => 53316
+
+CPU is idle
+
+=> Output of JOB: 534 saved to DISK 2
+JOB: 537, completed at time => 53393.Saving the output ...
+JOB: 538, completed at time => 53430.Saving the output ...
+=> Output of JOB: 536 saved to DISK 1
+JOB: 539, completed at time => 53457.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 537 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 538 saved to DISK 1
+JOB: 540, completed at time => 53632.Saving the output ...
+=> Output of JOB: 539 saved to DISK 1
+JOB: 541, completed at time => 53723.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 540 saved to DISK 2
+
+CPU is idle
+
+JOB: 542, completed at time => 54073.Saving the output ...
+=> Output of JOB: 541 saved to DISK 1
+
+CPU is idle
+
+JOB: 543, completed at time => 54219.Saving the output ...
+=> Output of JOB: 542 saved to DISK 2
+JOB: 544, completed at time => 54327.Saving the output ...
+JOB: 545, completed at time => 54353.Saving the output ...
+=> Output of JOB: 543 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 544 saved to DISK 1
+JOB: 546, completed at time => 54729.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 545 saved to DISK 1
+JOB: 547, completed at time => 54877.Saving the output ...
+=> Output of JOB: 546 saved to DISK 1
+JOB: 548, completed at time => 54996.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 547 saved to DISK 1
+
+CPU is idle
+
+JOB: 549, completed at time => 55095.Saving the output ...
+=> Output of JOB: 548 saved to DISK 2
+
+CPU is idle
+
+JOB: 550, completed at time => 55251
+
+CPU is idle
+
+JOB: 551, completed at time => 55346.Saving the output ...
+=> Output of JOB: 550 saved to DISK 2
+
+CPU is idle
+
+JOB: 552, completed at time => 55506.Saving the output ...
+=> Output of JOB: 551 saved to DISK 2
+
+CPU is idle
+
+JOB: 553, completed at time => 55670
+JOB: 554, completed at time => 55747.Saving the output ...
+JOB: 555, completed at time => 55769
+
+CPU is idle
+
+JOB: 556, completed at time => 55815.Saving the output ...
+=> Output of JOB: 553 saved to DISK 1
+=> Output of JOB: 555 saved to DISK 2
+JOB: 557, completed at time => 55884.Saving the output ...
+JOB: 558, completed at time => 55911.Saving the output ...
+=> Output of JOB: 556 saved to DISK 1
+JOB: 559, completed at time => 55958.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 557 saved to DISK 2
+=> Output of JOB: 558 saved to DISK 1
+JOB: 560, completed at time => 56040.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 559 saved to DISK 2
+JOB: 561, completed at time => 56138.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 560 saved to DISK 2
+JOB: 562, completed at time => 56199
+
+CPU is idle
+
+JOB: 563, completed at time => 56253.Saving the output ...
+
+CPU is idle
+
+JOB: 564, completed at time => 56279.Saving the output ...
+=> Output of JOB: 562 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 563 saved to DISK 2
+JOB: 565, completed at time => 56349
+
+CPU is idle
+
+JOB: 566, completed at time => 56605
+JOB: 567, completed at time => 56671.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 566 saved to DISK 2
+JOB: 568, completed at time => 56727.Saving the output ...
+=> Output of JOB: 567 saved to DISK 1
+
+CPU is idle
+
+JOB: 569, completed at time => 56821.Saving the output ...
+=> Output of JOB: 568 saved to DISK 2
+JOB: 570, completed at time => 56903
+JOB: 571, completed at time => 56972.Saving the output ...
+JOB: 572, completed at time => 57025.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 570 saved to DISK 1
+JOB: 573, completed at time => 57075.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 571 saved to DISK 2
+=> Output of JOB: 572 saved to DISK 1
+JOB: 574, completed at time => 57134.Saving the output ...
+=> Output of JOB: 573 saved to DISK 2
+JOB: 575, completed at time => 57206.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 574 saved to DISK 1
+
+CPU is idle
+
+JOB: 576, completed at time => 57346.Saving the output ...
+=> Output of JOB: 575 saved to DISK 2
+JOB: 577, completed at time => 57419.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 576 saved to DISK 2
+
+CPU is idle
+
+JOB: 578, completed at time => 57614
+JOB: 579, completed at time => 57693.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 578 saved to DISK 2
+JOB: 580, completed at time => 57798.Saving the output ...
+
+CPU is idle
+
+JOB: 581, completed at time => 57823
+
+CPU is idle
+
+=> Output of JOB: 579 saved to DISK 2
+JOB: 582, completed at time => 57868.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 583, completed at time => 57938.Saving the output ...
+=> Output of JOB: 581 saved to DISK 1
+=> Output of JOB: 582 saved to DISK 2
+JOB: 584, completed at time => 58042
+JOB: 585, completed at time => 58100.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 584 saved to DISK 2
+JOB: 586, completed at time => 58166.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 585 saved to DISK 2
+
+CPU is idle
+
+JOB: 587, completed at time => 58323.Saving the output ...
+=> Output of JOB: 586 saved to DISK 2
+JOB: 588, completed at time => 58441.Saving the output ...
+JOB: 589, completed at time => 58486.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 587 saved to DISK 2
+JOB: 590, completed at time => 58532
+=> Output of JOB: 588 saved to DISK 1
+
+CPU is idle
+
+JOB: 591, completed at time => 58644.Saving the output ...
+=> Output of JOB: 590 saved to DISK 2
+
+CPU is idle
+
+JOB: 592, completed at time => 58844.Saving the output ...
+=> Output of JOB: 591 saved to DISK 2
+JOB: 593, completed at time => 58964
+JOB: 594, completed at time => 58984
+
+CPU is idle
+
+JOB: 595, completed at time => 59132
+JOB: 596, completed at time => 59245.Saving the output ...
+=> Output of JOB: 595 saved to DISK 2
+
+CPU is idle
+
+JOB: 597, completed at time => 59834.Saving the output ...
+=> Output of JOB: 596 saved to DISK 2
+JOB: 598, completed at time => 59933.Saving the output ...
+
+CPU is idle
+
+JOB: 599, completed at time => 59979.Saving the output ...
+=> Output of JOB: 598 saved to DISK 2
+=> Output of JOB: 597 saved to DISK 1
+JOB: 600, completed at time => 60069.Saving the output ...
+JOB: 601, completed at time => 60123.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 599 saved to DISK 1
+=> Output of JOB: 600 saved to DISK 2
+JOB: 602, completed at time => 60191.Saving the output ...
+JOB: 603, completed at time => 60223
+=> Output of JOB: 601 saved to DISK 2
+JOB: 604, completed at time => 60260
+JOB: 605, completed at time => 60299.Saving the output ...
+JOB: 606, completed at time => 60342.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 604 saved to DISK 1
+=> Output of JOB: 605 saved to DISK 2
+JOB: 607, completed at time => 60422.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 606 saved to DISK 2
+
+CPU is idle
+
+JOB: 608, completed at time => 60634
+JOB: 609, completed at time => 60732.Saving the output ...
+JOB: 610, completed at time => 60775.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 608 saved to DISK 1
+=> Output of JOB: 609 saved to DISK 2
+
+CPU is idle
+
+JOB: 611, completed at time => 60923.Saving the output ...
+=> Output of JOB: 610 saved to DISK 2
+JOB: 612, completed at time => 60996.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 611 saved to DISK 2
+JOB: 613, completed at time => 61239.Saving the output ...
+=> Output of JOB: 612 saved to DISK 2
+JOB: 614, completed at time => 61317.Saving the output ...
+JOB: 615, completed at time => 61350.Saving the output ...
+=> Output of JOB: 613 saved to DISK 1
+JOB: 616, completed at time => 61403.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 614 saved to DISK 2
+=> Output of JOB: 615 saved to DISK 1
+
+CPU is idle
+
+JOB: 617, completed at time => 61541.Saving the output ...
+=> Output of JOB: 616 saved to DISK 2
+JOB: 618, completed at time => 61604.Saving the output ...
+
+CPU is idle
+
+
+CPU is idle
+
+=> Output of JOB: 617 saved to DISK 1
+JOB: 619, completed at time => 61738.Saving the output ...
+=> Output of JOB: 618 saved to DISK 2
+JOB: 620, completed at time => 61799
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 621, completed at time => 62076.Saving the output ...
+=> Output of JOB: 620 saved to DISK 2
+
+CPU is idle
+
+JOB: 622, completed at time => 62150.Saving the output ...
+=> Output of JOB: 621 saved to DISK 1
+
+CPU is idle
+
+JOB: 623, completed at time => 62279.Saving the output ...
+=> Output of JOB: 622 saved to DISK 1
+
+CPU is idle
+
+JOB: 624, completed at time => 62606.Saving the output ...
+=> Output of JOB: 623 saved to DISK 1
+JOB: 625, completed at time => 62721.Saving the output ...
+JOB: 626, completed at time => 62736.Saving the output ...
+=> Output of JOB: 624 saved to DISK 2
+=> Output of JOB: 625 saved to DISK 1
+
+CPU is idle
+
+JOB: 627, completed at time => 63054
+
+CPU is idle
+
+JOB: 628, completed at time => 63181
+JOB: 629, completed at time => 63284.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 628 saved to DISK 2
+JOB: 630, completed at time => 63345
+
+CPU is idle
+
+JOB: 631, completed at time => 63470.Saving the output ...
+=> Output of JOB: 630 saved to DISK 1
+
+CPU is idle
+
+JOB: 632, completed at time => 63577.Saving the output ...
+=> Output of JOB: 631 saved to DISK 2
+JOB: 633, completed at time => 63684.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 632 saved to DISK 2
+JOB: 634, completed at time => 63865.Saving the output ...
+=> Output of JOB: 633 saved to DISK 2
+
+CPU is idle
+
+JOB: 635, completed at time => 64148.Saving the output ...
+
+CPU is idle
+
+JOB: 636, completed at time => 64245.Saving the output ...
+=> Output of JOB: 634 saved to DISK 1
+=> Output of JOB: 635 saved to DISK 2
+JOB: 637, completed at time => 64341.Saving the output ...
+JOB: 638, completed at time => 64360
+
+CPU is idle
+
+=> Output of JOB: 636 saved to DISK 2
+JOB: 639, completed at time => 64402
+
+CPU is idle
+
+JOB: 640, completed at time => 64451.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 639 saved to DISK 1
+JOB: 641, completed at time => 64513.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 640 saved to DISK 1
+JOB: 642, completed at time => 64665
+JOB: 643, completed at time => 64730
+
+CPU is idle
+
+JOB: 644, completed at time => 64812.Saving the output ...
+=> Output of JOB: 643 saved to DISK 1
+
+CPU is idle
+
+JOB: 645, completed at time => 64997.Saving the output ...
+=> Output of JOB: 644 saved to DISK 2
+JOB: 646, completed at time => 65095.Saving the output ...
+JOB: 647, completed at time => 65142.Saving the output ...
+JOB: 648, completed at time => 65168.Saving the output ...
+=> Output of JOB: 647 saved to DISK 1
+=> Output of JOB: 646 saved to DISK 2
+=> Output of JOB: 32595 saved to DISK 1
+JOB: 649, completed at time => 65232.Saving the output ...
+JOB: 650, completed at time => 65285.Saving the output ...
+=> Output of JOB: 648 saved to DISK 2
+=> Output of JOB: 649 saved to DISK 1
+JOB: 651, completed at time => 65339.Saving the output ...
+=> Output of JOB: 650 saved to DISK 1
+JOB: 652, completed at time => 65394
+JOB: 653, completed at time => 65424.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 652 saved to DISK 2
+JOB: 654, completed at time => 65520.Saving the output ...
+=> Output of JOB: 653 saved to DISK 2
+JOB: 655, completed at time => 65624.Saving the output ...
+
+CPU is idle
+
+JOB: 656, completed at time => 65652.Saving the output ...
+=> Output of JOB: 655 saved to DISK 2
+=> Output of JOB: 654 saved to DISK 1
+JOB: 657, completed at time => 65729.Saving the output ...
+=> Output of JOB: 656 saved to DISK 2
+JOB: 658, completed at time => 65791
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 659, completed at time => 65942.Saving the output ...
+=> Output of JOB: 658 saved to DISK 2
+JOB: 660, completed at time => 66025.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 659 saved to DISK 1
+JOB: 661, completed at time => 66106.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 660 saved to DISK 1
+JOB: 662, completed at time => 66189.Saving the output ...
+JOB: 663, completed at time => 66231
+
+CPU is idle
+
+=> Output of JOB: 661 saved to DISK 1
+
+CPU is idle
+
+JOB: 664, completed at time => 66320.Saving the output ...
+=> Output of JOB: 663 saved to DISK 2
+
+CPU is idle
+
+JOB: 665, completed at time => 66573.Saving the output ...
+=> Output of JOB: 664 saved to DISK 2
+
+CPU is idle
+
+JOB: 666, completed at time => 66779.Saving the output ...
+=> Output of JOB: 665 saved to DISK 2
+JOB: 667, completed at time => 66854.Saving the output ...
+JOB: 668, completed at time => 66921
+
+CPU is idle
+
+=> Output of JOB: 666 saved to DISK 1
+
+CPU is idle
+
+JOB: 669, completed at time => 67087
+
+CPU is idle
+
+JOB: 670, completed at time => 67214.Saving the output ...
+=> Output of JOB: 669 saved to DISK 2
+JOB: 671, completed at time => 67275
+
+CPU is idle
+
+JOB: 672, completed at time => 67382.Saving the output ...
+JOB: 673, completed at time => 67451
+=> Output of JOB: 671 saved to DISK 1
+JOB: 674, completed at time => 67501.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 673 saved to DISK 1
+JOB: 675, completed at time => 67643.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 674 saved to DISK 1
+JOB: 676, completed at time => 67805.Saving the output ...
+=> Output of JOB: 675 saved to DISK 1
+
+CPU is idle
+
+JOB: 677, completed at time => 68088.Saving the output ...
+=> Output of JOB: 676 saved to DISK 2
+JOB: 678, completed at time => 68162
+
+CPU is idle
+
+JOB: 679, completed at time => 68215.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 678 saved to DISK 2
+JOB: 680, completed at time => 68352.Saving the output ...
+=> Output of JOB: 679 saved to DISK 2
+JOB: 681, completed at time => 68453.Saving the output ...
+JOB: 682, completed at time => 68495.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 681 saved to DISK 2
+=> Output of JOB: 680 saved to DISK 1
+JOB: 683, completed at time => 68687.Saving the output ...
+=> Output of JOB: 682 saved to DISK 2
+
+CPU is idle
+
+JOB: 684, completed at time => 68927.Saving the output ...
+
+CPU is idle
+
+JOB: 685, completed at time => 69015
+=> Output of JOB: 683 saved to DISK 1
+
+CPU is idle
+
+JOB: 686, completed at time => 69141.Saving the output ...
+=> Output of JOB: 685 saved to DISK 1
+
+CPU is idle
+
+JOB: 687, completed at time => 69245.Saving the output ...
+=> Output of JOB: 686 saved to DISK 2
+JOB: 688, completed at time => 69328.Saving the output ...
+
+CPU is idle
+
+JOB: 689, completed at time => 69398.Saving the output ...
+=> Output of JOB: 687 saved to DISK 1
+JOB: 690, completed at time => 69440.Saving the output ...
+=> Output of JOB: 688 saved to DISK 2
+=> Output of JOB: 689 saved to DISK 1
+JOB: 691, completed at time => 69512.Saving the output ...
+JOB: 692, completed at time => 69540.Saving the output ...
+=> Output of JOB: 690 saved to DISK 1
+=> Output of JOB: 691 saved to DISK 2
+
+CPU is idle
+
+JOB: 693, completed at time => 69608
+JOB: 694, completed at time => 69690.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 693 saved to DISK 2
+JOB: 695, completed at time => 69746
+
+CPU is idle
+
+JOB: 696, completed at time => 69815
+
+CPU is idle
+
+JOB: 697, completed at time => 69927.Saving the output ...
+=> Output of JOB: 696 saved to DISK 2
+
+CPU is idle
+
+JOB: 698, completed at time => 70308.Saving the output ...
+=> Output of JOB: 697 saved to DISK 2
+
+CPU is idle
+
+JOB: 699, completed at time => 70461.Saving the output ...
+=> Output of JOB: 698 saved to DISK 2
+
+CPU is idle
+
+JOB: 700, completed at time => 70648.Saving the output ...
+=> Output of JOB: 699 saved to DISK 2
+
+CPU is idle
+
+JOB: 701, completed at time => 70840.Saving the output ...
+=> Output of JOB: 700 saved to DISK 1
+JOB: 702, completed at time => 70941
+JOB: 703, completed at time => 70983.Saving the output ...
+
+CPU is idle
+
+JOB: 704, completed at time => 71049.Saving the output ...
+=> Output of JOB: 702 saved to DISK 1
+=> Output of JOB: 703 saved to DISK 2
+
+CPU is idle
+
+JOB: 705, completed at time => 71235.Saving the output ...
+=> Output of JOB: 704 saved to DISK 1
+JOB: 706, completed at time => 71321.Saving the output ...
+JOB: 707, completed at time => 71341.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 705 saved to DISK 2
+JOB: 708, completed at time => 71400.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 706 saved to DISK 1
+=> Output of JOB: 707 saved to DISK 2
+
+CPU is idle
+
+JOB: 709, completed at time => 71497.Saving the output ...
+=> Output of JOB: 708 saved to DISK 2
+JOB: 710, completed at time => 71607.Saving the output ...
+=> Output of JOB: 709 saved to DISK 2
+
+CPU is idle
+
+JOB: 711, completed at time => 71779.Saving the output ...
+=> Output of JOB: 710 saved to DISK 2
+JOB: 712, completed at time => 71852.Saving the output ...
+=> Output of JOB: 711 saved to DISK 2
+
+CPU is idle
+
+JOB: 713, completed at time => 72018.Saving the output ...
+=> Output of JOB: 712 saved to DISK 2
+
+CPU is idle
+
+JOB: 714, completed at time => 72349.Saving the output ...
+JOB: 715, completed at time => 72402.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 713 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 714 saved to DISK 2
+JOB: 716, completed at time => 72578
+
+CPU is idle
+
+JOB: 717, completed at time => 72785.Saving the output ...
+=> Output of JOB: 716 saved to DISK 2
+JOB: 718, completed at time => 72868
+
+CPU is idle
+
+JOB: 719, completed at time => 72945
+
+CPU is idle
+
+JOB: 720, completed at time => 73072.Saving the output ...
+=> Output of JOB: 719 saved to DISK 1
+
+CPU is idle
+
+JOB: 721, completed at time => 73197.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 720 saved to DISK 1
+JOB: 722, completed at time => 73270.Saving the output ...
+=> Output of JOB: 721 saved to DISK 1
+JOB: 723, completed at time => 73364.Saving the output ...
+JOB: 724, completed at time => 73383.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 722 saved to DISK 2
+JOB: 725, completed at time => 73427.Saving the output ...
+=> Output of JOB: 723 saved to DISK 1
+=> Output of JOB: 724 saved to DISK 2
+
+CPU is idle
+
+JOB: 726, completed at time => 73606.Saving the output ...
+JOB: 727, completed at time => 73704
+=> Output of JOB: 725 saved to DISK 1
+JOB: 728, completed at time => 73735
+JOB: 729, completed at time => 73803.Saving the output ...
+JOB: 730, completed at time => 73830.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 728 saved to DISK 2
+=> Output of JOB: 729 saved to DISK 1
+JOB: 731, completed at time => 73875.Saving the output ...
+
+CPU is idle
+
+JOB: 732, completed at time => 73918.Saving the output ...
+=> Output of JOB: 731 saved to DISK 2
+JOB: 733, completed at time => 73953.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 730 saved to DISK 1
+=> Output of JOB: 732 saved to DISK 2
+JOB: 734, completed at time => 74042.Saving the output ...
+=> Output of JOB: 733 saved to DISK 2
+JOB: 735, completed at time => 74090.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 734 saved to DISK 1
+JOB: 736, completed at time => 74193.Saving the output ...
+JOB: 737, completed at time => 74232.Saving the output ...
+=> Output of JOB: 735 saved to DISK 1
+=> Output of JOB: 736 saved to DISK 2
+JOB: 738, completed at time => 74294.Saving the output ...
+JOB: 739, completed at time => 74326.Saving the output ...
+=> Output of JOB: 737 saved to DISK 2
+JOB: 740, completed at time => 74383.Saving the output ...
+=> Output of JOB: 738 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 739 saved to DISK 2
+JOB: 741, completed at time => 74427.Saving the output ...
+=> Output of JOB: 740 saved to DISK 2
+
+CPU is idle
+
+JOB: 742, completed at time => 74540.Saving the output ...
+=> Output of JOB: 741 saved to DISK 2
+
+CPU is idle
+
+JOB: 743, completed at time => 74990.Saving the output ...
+JOB: 744, completed at time => 75070
+=> Output of JOB: 742 saved to DISK 1
+
+CPU is idle
+
+JOB: 745, completed at time => 75286.Saving the output ...
+=> Output of JOB: 744 saved to DISK 2
+JOB: 746, completed at time => 75342
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 747, completed at time => 75394.Saving the output ...
+=> Output of JOB: 746 saved to DISK 2
+JOB: 748, completed at time => 75465
+
+CPU is idle
+
+JOB: 749, completed at time => 75545
+
+CPU is idle
+
+JOB: 750, completed at time => 75676.Saving the output ...
+=> Output of JOB: 749 saved to DISK 1
+JOB: 751, completed at time => 75785.Saving the output ...
+JOB: 752, completed at time => 75842.Saving the output ...
+=> Output of JOB: 750 saved to DISK 2
+JOB: 753, completed at time => 75878.Saving the output ...
+=> Output of JOB: 751 saved to DISK 1
+
+CPU is idle
+
+JOB: 754, completed at time => 75900
+=> Output of JOB: 752 saved to DISK 2
+JOB: 755, completed at time => 76004.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 754 saved to DISK 1
+JOB: 756, completed at time => 76268.Saving the output ...
+=> Output of JOB: 755 saved to DISK 1
+JOB: 757, completed at time => 76365.Saving the output ...
+=> Output of JOB: 756 saved to DISK 2
+JOB: 758, completed at time => 76403.Saving the output ...
+JOB: 759, completed at time => 76456.Saving the output ...
+JOB: 760, completed at time => 76477.Saving the output ...
+=> Output of JOB: 757 saved to DISK 1
+=> Output of JOB: 759 saved to DISK 2
+JOB: 761, completed at time => 76511.Saving the output ...
+=> Output of JOB: 32595 saved to DISK 2
+JOB: 762, completed at time => 76567
+=> Output of JOB: 760 saved to DISK 1
+JOB: 763, completed at time => 76624.Saving the output ...
+JOB: 764, completed at time => 76665.Saving the output ...
+=> Output of JOB: 763 saved to DISK 2
+JOB: 765, completed at time => 76695.Saving the output ...
+=> Output of JOB: 762 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 764 saved to DISK 2
+JOB: 766, completed at time => 77074
+JOB: 767, completed at time => 77137.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 766 saved to DISK 2
+
+CPU is idle
+
+JOB: 768, completed at time => 77207
+
+CPU is idle
+
+JOB: 769, completed at time => 77330.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 768 saved to DISK 1
+JOB: 770, completed at time => 77480.Saving the output ...
+JOB: 771, completed at time => 77566.Saving the output ...
+=> Output of JOB: 769 saved to DISK 1
+=> Output of JOB: 770 saved to DISK 2
+JOB: 772, completed at time => 77615.Saving the output ...
+=> Output of JOB: 771 saved to DISK 1
+
+CPU is idle
+
+JOB: 773, completed at time => 77687.Saving the output ...
+=> Output of JOB: 772 saved to DISK 1
+
+CPU is idle
+
+JOB: 774, completed at time => 77805.Saving the output ...
+=> Output of JOB: 773 saved to DISK 1
+
+CPU is idle
+
+JOB: 775, completed at time => 77926.Saving the output ...
+=> Output of JOB: 774 saved to DISK 2
+
+CPU is idle
+
+JOB: 776, completed at time => 78268.Saving the output ...
+=> Output of JOB: 775 saved to DISK 2
+JOB: 777, completed at time => 78343.Saving the output ...
+
+CPU is idle
+
+JOB: 778, completed at time => 78387
+=> Output of JOB: 776 saved to DISK 2
+
+CPU is idle
+
+JOB: 779, completed at time => 78574
+
+CPU is idle
+
+JOB: 780, completed at time => 78631
+JOB: 781, completed at time => 78708.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 780 saved to DISK 1
+
+CPU is idle
+
+JOB: 782, completed at time => 78781.Saving the output ...
+JOB: 783, completed at time => 78837.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 782 saved to DISK 2
+=> Output of JOB: 781 saved to DISK 1
+JOB: 784, completed at time => 78940.Saving the output ...
+
+CPU is idle
+
+JOB: 785, completed at time => 79020.Saving the output ...
+=> Output of JOB: 783 saved to DISK 1
+=> Output of JOB: 784 saved to DISK 2
+JOB: 786, completed at time => 79081
+JOB: 787, completed at time => 79099.Saving the output ...
+JOB: 788, completed at time => 79117.Saving the output ...
+=> Output of JOB: 787 saved to DISK 2
+=> Output of JOB: 786 saved to DISK 1
+
+CPU is idle
+
+JOB: 789, completed at time => 79435
+JOB: 790, completed at time => 79509.Saving the output ...
+
+CPU is idle
+
+JOB: 791, completed at time => 79537.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 790 saved to DISK 2
+=> Output of JOB: 789 saved to DISK 1
+JOB: 792, completed at time => 79600.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 791 saved to DISK 2
+
+CPU is idle
+
+JOB: 793, completed at time => 79806
+
+CPU is idle
+
+JOB: 794, completed at time => 79894.Saving the output ...
+=> Output of JOB: 793 saved to DISK 2
+JOB: 795, completed at time => 79956
+JOB: 796, completed at time => 79981.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 795 saved to DISK 2
+JOB: 797, completed at time => 80063
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 798, completed at time => 80138.Saving the output ...
+=> Output of JOB: 797 saved to DISK 1
+
+CPU is idle
+
+JOB: 799, completed at time => 80245
+
+CPU is idle
+
+JOB: 800, completed at time => 80398.Saving the output ...
+=> Output of JOB: 799 saved to DISK 2
+JOB: 801, completed at time => 80483.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 800 saved to DISK 1
+
+CPU is idle
+
+JOB: 802, completed at time => 80625.Saving the output ...
+JOB: 803, completed at time => 80700.Saving the output ...
+=> Output of JOB: 801 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 802 saved to DISK 2
+JOB: 804, completed at time => 80749
+JOB: 805, completed at time => 80818.Saving the output ...
+JOB: 806, completed at time => 80856.Saving the output ...
+=> Output of JOB: 804 saved to DISK 2
+JOB: 807, completed at time => 80891.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 805 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 806 saved to DISK 2
+JOB: 808, completed at time => 80951.Saving the output ...
+=> Output of JOB: 807 saved to DISK 1
+JOB: 809, completed at time => 81058
+JOB: 810, completed at time => 81127
+JOB: 811, completed at time => 81148.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 810 saved to DISK 1
+
+CPU is idle
+
+JOB: 812, completed at time => 81339.Saving the output ...
+=> Output of JOB: 811 saved to DISK 2
+JOB: 813, completed at time => 81460.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 812 saved to DISK 1
+
+CPU is idle
+
+JOB: 814, completed at time => 81546.Saving the output ...
+=> Output of JOB: 813 saved to DISK 1
+JOB: 815, completed at time => 81661.Saving the output ...
+JOB: 816, completed at time => 81677.Saving the output ...
+=> Output of JOB: 814 saved to DISK 2
+JOB: 817, completed at time => 81719.Saving the output ...
+=> Output of JOB: 815 saved to DISK 1
+JOB: 818, completed at time => 81753.Saving the output ...
+=> Output of JOB: 816 saved to DISK 2
+JOB: 819, completed at time => 81780.Saving the output ...
+=> Output of JOB: 817 saved to DISK 1
+JOB: 820, completed at time => 81824.Saving the output ...
+=> Output of JOB: 818 saved to DISK 2
+=> Output of JOB: 819 saved to DISK 1
+JOB: 821, completed at time => 81877.Saving the output ...
+JOB: 822, completed at time => 81925.Saving the output ...
+=> Output of JOB: 820 saved to DISK 2
+JOB: 823, completed at time => 81947.Saving the output ...
+JOB: 824, completed at time => 81966.Saving the output ...
+JOB: 825, completed at time => 81989
+=> Output of JOB: 821 saved to DISK 1
+=> Output of JOB: 823 saved to DISK 2
+=> Output of JOB: 32595 saved to DISK 2
+JOB: 826, completed at time => 82032.Saving the output ...
+JOB: 827, completed at time => 82048.Saving the output ...
+=> Output of JOB: 826 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 825 saved to DISK 1
+JOB: 828, completed at time => 82177.Saving the output ...
+=> Output of JOB: 827 saved to DISK 1
+
+CPU is idle
+
+JOB: 829, completed at time => 82373.Saving the output ...
+JOB: 830, completed at time => 82436.Saving the output ...
+=> Output of JOB: 828 saved to DISK 1
+JOB: 831, completed at time => 82489.Saving the output ...
+=> Output of JOB: 829 saved to DISK 2
+JOB: 832, completed at time => 82514.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 830 saved to DISK 1
+=> Output of JOB: 831 saved to DISK 2
+JOB: 833, completed at time => 82583.Saving the output ...
+JOB: 834, completed at time => 82669
+=> Output of JOB: 832 saved to DISK 1
+JOB: 835, completed at time => 82703.Saving the output ...
+=> Output of JOB: 834 saved to DISK 2
+JOB: 836, completed at time => 82763
+JOB: 837, completed at time => 82826
+
+CPU is idle
+
+JOB: 838, completed at time => 83020.Saving the output ...
+=> Output of JOB: 837 saved to DISK 2
+JOB: 839, completed at time => 83107
+
+CPU is idle
+
+JOB: 840, completed at time => 83452.Saving the output ...
+=> Output of JOB: 839 saved to DISK 2
+JOB: 841, completed at time => 83541.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 840 saved to DISK 2
+JOB: 842, completed at time => 83634.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 841 saved to DISK 2
+JOB: 843, completed at time => 83705.Saving the output ...
+JOB: 844, completed at time => 83770
+=> Output of JOB: 842 saved to DISK 1
+JOB: 845, completed at time => 83808.Saving the output ...
+JOB: 846, completed at time => 83829.Saving the output ...
+JOB: 847, completed at time => 83859.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 846 saved to DISK 1
+JOB: 848, completed at time => 83884
+
+CPU is idle
+
+=> Output of JOB: 845 saved to DISK 2
+=> Output of JOB: 32595 saved to DISK 1
+JOB: 849, completed at time => 83955.Saving the output ...
+JOB: 850, completed at time => 83993
+=> Output of JOB: 848 saved to DISK 2
+
+CPU is idle
+
+JOB: 851, completed at time => 84021
+JOB: 852, completed at time => 84103
+JOB: 853, completed at time => 84145
+JOB: 854, completed at time => 84213.Saving the output ...
+=> Output of JOB: 853 saved to DISK 2
+
+CPU is idle
+
+JOB: 855, completed at time => 84476.Saving the output ...
+=> Output of JOB: 854 saved to DISK 2
+
+CPU is idle
+
+JOB: 856, completed at time => 84673.Saving the output ...
+=> Output of JOB: 855 saved to DISK 2
+JOB: 857, completed at time => 84732.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 856 saved to DISK 1
+JOB: 858, completed at time => 84809.Saving the output ...
+JOB: 859, completed at time => 84843.Saving the output ...
+JOB: 860, completed at time => 84900.Saving the output ...
+=> Output of JOB: 859 saved to DISK 1
+=> Output of JOB: 858 saved to DISK 2
+JOB: 861, completed at time => 84927.Saving the output ...
+JOB: 862, completed at time => 84962.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 32595 saved to DISK 1
+=> Output of JOB: 861 saved to DISK 2
+=> Output of JOB: 32595 saved to DISK 2
+
+CPU is idle
+
+JOB: 863, completed at time => 85059
+
+CPU is idle
+
+JOB: 864, completed at time => 85195
+JOB: 865, completed at time => 85304.Saving the output ...
+JOB: 866, completed at time => 85338.Saving the output ...
+=> Output of JOB: 864 saved to DISK 2
+JOB: 867, completed at time => 85373.Saving the output ...
+=> Output of JOB: 865 saved to DISK 1
+
+CPU is idle
+
+JOB: 868, completed at time => 85419
+=> Output of JOB: 866 saved to DISK 2
+JOB: 869, completed at time => 85511.Saving the output ...
+JOB: 870, completed at time => 85576.Saving the output ...
+=> Output of JOB: 868 saved to DISK 1
+=> Output of JOB: 869 saved to DISK 2
+JOB: 871, completed at time => 85640.Saving the output ...
+=> Output of JOB: 870 saved to DISK 2
+JOB: 872, completed at time => 85704.Saving the output ...
+=> Output of JOB: 871 saved to DISK 2
+
+CPU is idle
+
+JOB: 873, completed at time => 85832.Saving the output ...
+=> Output of JOB: 872 saved to DISK 1
+JOB: 874, completed at time => 85928.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 873 saved to DISK 1
+
+CPU is idle
+
+JOB: 875, completed at time => 86052
+
+CPU is idle
+
+JOB: 876, completed at time => 86337.Saving the output ...
+=> Output of JOB: 875 saved to DISK 2
+JOB: 877, completed at time => 86436.Saving the output ...
+=> Output of JOB: 876 saved to DISK 2
+JOB: 878, completed at time => 86478.Saving the output ...
+JOB: 879, completed at time => 86516.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 877 saved to DISK 1
+=> Output of JOB: 878 saved to DISK 2
+JOB: 880, completed at time => 86610.Saving the output ...
+JOB: 881, completed at time => 86637.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 879 saved to DISK 1
+=> Output of JOB: 880 saved to DISK 2
+
+CPU is idle
+
+JOB: 882, completed at time => 86944.Saving the output ...
+=> Output of JOB: 881 saved to DISK 1
+
+CPU is idle
+
+JOB: 883, completed at time => 87047.Saving the output ...
+=> Output of JOB: 882 saved to DISK 1
+JOB: 884, completed at time => 87140
+JOB: 885, completed at time => 87157
+
+CPU is idle
+
+
+CPU is idle
+
+JOB: 886, completed at time => 87312.Saving the output ...
+=> Output of JOB: 885 saved to DISK 2
+JOB: 887, completed at time => 87398.Saving the output ...
+=> Output of JOB: 886 saved to DISK 2
+JOB: 888, completed at time => 87446.Saving the output ...
+=> Output of JOB: 887 saved to DISK 2
+JOB: 889, completed at time => 87471.Saving the output ...
+JOB: 890, completed at time => 87486.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 888 saved to DISK 2
+=> Output of JOB: 889 saved to DISK 1
+JOB: 891, completed at time => 87573.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 890 saved to DISK 2
+JOB: 892, completed at time => 87654.Saving the output ...
+
+CPU is idle
+
+JOB: 893, completed at time => 87696.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 891 saved to DISK 1
+=> Output of JOB: 892 saved to DISK 2
+JOB: 894, completed at time => 87872.Saving the output ...
+JOB: 895, completed at time => 87940
+
+CPU is idle
+
+=> Output of JOB: 893 saved to DISK 1
+
+CPU is idle
+
+JOB: 896, completed at time => 87989
+
+CPU is idle
+
+JOB: 897, completed at time => 88199
+
+CPU is idle
+
+JOB: 898, completed at time => 88337.Saving the output ...
+=> Output of JOB: 897 saved to DISK 2
+JOB: 899, completed at time => 88444.Saving the output ...
+=> Output of JOB: 898 saved to DISK 1
+
+CPU is idle
+
+JOB: 900, completed at time => 88630.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 899 saved to DISK 2
+JOB: 901, completed at time => 89039.Saving the output ...
+=> Output of JOB: 900 saved to DISK 2
+
+CPU is idle
+
+JOB: 902, completed at time => 89131.Saving the output ...
+JOB: 903, completed at time => 89184.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 901 saved to DISK 1
+=> Output of JOB: 902 saved to DISK 2
+
+CPU is idle
+
+JOB: 904, completed at time => 89333.Saving the output ...
+=> Output of JOB: 903 saved to DISK 2
+
+CPU is idle
+
+JOB: 905, completed at time => 89525.Saving the output ...
+=> Output of JOB: 904 saved to DISK 1
+
+CPU is idle
+
+JOB: 906, completed at time => 89719
+JOB: 907, completed at time => 89810.Saving the output ...
+JOB: 908, completed at time => 89878.Saving the output ...
+=> Output of JOB: 907 saved to DISK 2
+JOB: 909, completed at time => 89907.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 906 saved to DISK 1
+=> Output of JOB: 908 saved to DISK 2
+
+CPU is idle
+
+JOB: 910, completed at time => 89974.Saving the output ...
+=> Output of JOB: 909 saved to DISK 2
+JOB: 911, completed at time => 90069.Saving the output ...
+=> Output of JOB: 910 saved to DISK 2
+
+CPU is idle
+
+JOB: 912, completed at time => 90129.Saving the output ...
+=> Output of JOB: 911 saved to DISK 2
+
+CPU is idle
+
+JOB: 913, completed at time => 90189.Saving the output ...
+=> Output of JOB: 912 saved to DISK 1
+
+CPU is idle
+
+JOB: 914, completed at time => 90269
+
+CPU is idle
+
+JOB: 915, completed at time => 90630.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 914 saved to DISK 1
+JOB: 916, completed at time => 90786
+JOB: 917, completed at time => 90890
+JOB: 918, completed at time => 90954.Saving the output ...
+
+CPU is idle
+
+JOB: 919, completed at time => 91021.Saving the output ...
+=> Output of JOB: 917 saved to DISK 1
+JOB: 920, completed at time => 91049
+=> Output of JOB: 918 saved to DISK 2
+
+CPU is idle
+
+JOB: 921, completed at time => 91113.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 920 saved to DISK 1
+JOB: 922, completed at time => 91272.Saving the output ...
+=> Output of JOB: 921 saved to DISK 1
+JOB: 923, completed at time => 91374.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 922 saved to DISK 1
+JOB: 924, completed at time => 91456
+JOB: 925, completed at time => 91542.Saving the output ...
+=> Output of JOB: 924 saved to DISK 1
+
+CPU is idle
+
+JOB: 926, completed at time => 91622.Saving the output ...
+=> Output of JOB: 925 saved to DISK 1
+JOB: 927, completed at time => 91696.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 926 saved to DISK 2
+JOB: 928, completed at time => 91768.Saving the output ...
+=> Output of JOB: 927 saved to DISK 2
+JOB: 929, completed at time => 91829.Saving the output ...
+JOB: 930, completed at time => 91844
+=> Output of JOB: 928 saved to DISK 2
+JOB: 931, completed at time => 91892.Saving the output ...
+JOB: 932, completed at time => 91907
+JOB: 933, completed at time => 91954.Saving the output ...
+=> Output of JOB: 932 saved to DISK 2
+
+CPU is idle
+
+=> Output of JOB: 930 saved to DISK 1
+JOB: 934, completed at time => 91994.Saving the output ...
+=> Output of JOB: 933 saved to DISK 2
+JOB: 935, completed at time => 92040.Saving the output ...
+
+CPU is idle
+
+JOB: 936, completed at time => 92105.Saving the output ...
+=> Output of JOB: 934 saved to DISK 1
+
+CPU is idle
+
+=> Output of JOB: 935 saved to DISK 2
+JOB: 937, completed at time => 92150
+
+CPU is idle
+
+JOB: 938, completed at time => 92273.Saving the output ...
+=> Output of JOB: 937 saved to DISK 1
+JOB: 939, completed at time => 92340.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 938 saved to DISK 1
+JOB: 940, completed at time => 92389.Saving the output ...
+=> Output of JOB: 939 saved to DISK 2
+
+CPU is idle
+
+JOB: 941, completed at time => 92586.Saving the output ...
+=> Output of JOB: 940 saved to DISK 2
+
+CPU is idle
+
+JOB: 942, completed at time => 92726.Saving the output ...
+=> Output of JOB: 941 saved to DISK 1
+
+CPU is idle
+
+JOB: 943, completed at time => 93045.Saving the output ...
+=> Output of JOB: 942 saved to DISK 1
+
+CPU is idle
+
+JOB: 944, completed at time => 93295.Saving the output ...
+=> Output of JOB: 943 saved to DISK 2
+
+CPU is idle
+
+JOB: 945, completed at time => 93402.Saving the output ...
+=> Output of JOB: 944 saved to DISK 2
+JOB: 946, completed at time => 93514
+JOB: 947, completed at time => 93583
+
+CPU is idle
+
+JOB: 948, completed at time => 93740.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 947 saved to DISK 2
+JOB: 949, completed at time => 93867.Saving the output ...
+=> Output of JOB: 948 saved to DISK 2
+
+CPU is idle
+
+JOB: 950, completed at time => 94078.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 949 saved to DISK 1
+JOB: 951, completed at time => 94274
+JOB: 952, completed at time => 94388.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 951 saved to DISK 2
+JOB: 953, completed at time => 94497.Saving the output ...
+JOB: 954, completed at time => 94561.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 952 saved to DISK 1
+=> Output of JOB: 953 saved to DISK 2
+JOB: 955, completed at time => 94634.Saving the output ...
+=> Output of JOB: 954 saved to DISK 2
+JOB: 956, completed at time => 94703.Saving the output ...
+JOB: 957, completed at time => 94765.Saving the output ...
+=> Output of JOB: 955 saved to DISK 1
+=> Output of JOB: 956 saved to DISK 2
+JOB: 958, completed at time => 94826.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 957 saved to DISK 1
+JOB: 959, completed at time => 94976.Saving the output ...
+=> Output of JOB: 958 saved to DISK 2
+
+CPU is idle
+
+JOB: 960, completed at time => 95169.Saving the output ...
+=> Output of JOB: 959 saved to DISK 2
+
+CPU is idle
+
+JOB: 961, completed at time => 95491.Saving the output ...
+=> Output of JOB: 960 saved to DISK 2
+
+CPU is idle
+
+JOB: 962, completed at time => 95581.Saving the output ...
+=> Output of JOB: 961 saved to DISK 2
+
+CPU is idle
+
+JOB: 963, completed at time => 95687.Saving the output ...
+=> Output of JOB: 962 saved to DISK 2
+
+CPU is idle
+
+JOB: 964, completed at time => 95936.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 963 saved to DISK 1
+JOB: 965, completed at time => 96048.Saving the output ...
+=> Output of JOB: 964 saved to DISK 1
+JOB: 966, completed at time => 96152
+
+CPU is idle
+
+JOB: 967, completed at time => 96228.Saving the output ...
+=> Output of JOB: 966 saved to DISK 2
+JOB: 968, completed at time => 96268
+JOB: 969, completed at time => 96332.Saving the output ...
+=> Output of JOB: 968 saved to DISK 2
+JOB: 970, completed at time => 96397.Saving the output ...
+
+CPU is idle
+
+JOB: 971, completed at time => 96461.Saving the output ...
+=> Output of JOB: 969 saved to DISK 1
+JOB: 972, completed at time => 96488.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 970 saved to DISK 2
+
+CPU is idle
+
+JOB: 973, completed at time => 96564.Saving the output ...
+=> Output of JOB: 971 saved to DISK 1
+=> Output of JOB: 972 saved to DISK 2
+JOB: 974, completed at time => 96643.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 973 saved to DISK 1
+JOB: 975, completed at time => 96746.Saving the output ...
+JOB: 976, completed at time => 96815.Saving the output ...
+=> Output of JOB: 974 saved to DISK 1
+=> Output of JOB: 975 saved to DISK 2
+
+CPU is idle
+
+JOB: 977, completed at time => 96893.Saving the output ...
+=> Output of JOB: 976 saved to DISK 1
+JOB: 978, completed at time => 96989.Saving the output ...
+JOB: 979, completed at time => 97032.Saving the output ...
+=> Output of JOB: 977 saved to DISK 1
+=> Output of JOB: 978 saved to DISK 2
+JOB: 980, completed at time => 97090.Saving the output ...
+JOB: 981, completed at time => 97119.Saving the output ...
+=> Output of JOB: 979 saved to DISK 1
+JOB: 982, completed at time => 97169
+=> Output of JOB: 980 saved to DISK 2
+JOB: 983, completed at time => 97206.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 982 saved to DISK 1
+JOB: 984, completed at time => 97393
+
+CPU is idle
+
+JOB: 985, completed at time => 97461.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 984 saved to DISK 1
+JOB: 986, completed at time => 97546.Saving the output ...
+=> Output of JOB: 985 saved to DISK 1
+
+CPU is idle
+
+JOB: 987, completed at time => 97899.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 986 saved to DISK 1
+JOB: 988, completed at time => 98191.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 987 saved to DISK 1
+JOB: 989, completed at time => 98618.Saving the output ...
+=> Output of JOB: 988 saved to DISK 2
+JOB: 990, completed at time => 98693.Saving the output ...
+
+CPU is idle
+
+JOB: 991, completed at time => 98736.Saving the output ...
+=> Output of JOB: 989 saved to DISK 1
+=> Output of JOB: 990 saved to DISK 2
+
+CPU is idle
+
+JOB: 992, completed at time => 98960
+JOB: 993, completed at time => 99014.Saving the output ...
+
+CPU is idle
+
+JOB: 994, completed at time => 99059.Saving the output ...
+
+CPU is idle
+
+=> Output of JOB: 992 saved to DISK 2
+=> Output of JOB: 993 saved to DISK 1
+JOB: 995, completed at time => 99125.Saving the output ...
+JOB: 996, completed at time => 99197.Saving the output ...
+=> Output of JOB: 994 saved to DISK 1
+=> Output of JOB: 995 saved to DISK 2
+JOB: 997, completed at time => 99230.Saving the output ...
+JOB: 998, completed at time => 99249.Saving the output ...
+=> Output of JOB: 996 saved to DISK 2
+JOB: 999, completed at time => 99315.Saving the output ...
+=> Output of JOB: 997 saved to DISK 1
+=> Output of JOB: 998 saved to DISK 2
+
+CPU is idle
+
+JOB: 1000, completed at time => 99849.Saving the output ...
+=> Output of JOB: 999 saved to DISK 2
+
+CPU is idle
+
+
+
+======================== SYSTEM Statistics ========================
+# Total number of job done : 1000
+# Average time taken per job  : 100
+# Maximum size of CPU que : 6
+# Maximum size of DISK1 que : 2
+# Maximum size of DISK2 que : 2
+# Average size of CPU que : 1
+# Average size of DISK1 que : 2
+# Average size of DISK2 que : 2
+# Utilization of CPU que in cycles : 43862
+# Utilization of DISK1 que in cycles : 24416
+# Utilization of DISK2 que in cycles : 18332
+
